@@ -1,0 +1,323 @@
+task_id,choice,raw_output
+1,B,B
+2,C,C
+3,C,"Based on price and neighborhood, I choose **C**."
+4,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+5,A,"Based on the information provided and assuming price is a significant factor, I would choose"
+6,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+7,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+8,B,B
+9,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+10,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+11,B,B
+12,A,A
+13,C,"Based on the information provided, I would choose **C**. Here's why:"
+14,A,A
+15,C,"Based on price and guest review score, I choose **C**."
+16,A,"Based on the information provided and assuming a preference for a balance between price, reviews"
+17,A,"Based on the information provided, I would choose **Option A**. Here's why"
+18,B,B
+19,B,B
+20,B,B
+21,B,B
+22,C,"Based on the information provided, I would choose **C**. Here's why:"
+23,C,C
+24,B,"Based on the information provided, I would choose **B**. Here's why:"
+25,A,Based on the information provided and assuming a budget-conscious approach while prioritizing guest reviews
+26,B,B
+27,C,"Based on the information provided, I would choose Option C:
+
+- Hampton Inn Manhattan"
+28,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+29,A,"Based on price and review score, I choose Option A: Aloft New York"
+30,A,A
+31,A,"Based on the information provided and assuming a preference for a balance between cost, location"
+32,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+33,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+34,B,B
+35,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+36,A,A
+37,B,B
+38,E,E
+39,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+40,A,"Based on the information provided and assuming a preference for a balance between price, location"
+41,B,"Based on the information provided, I would choose Option B:
+
+- Hyatt House"
+42,B,B
+43,D,D
+44,E,"Based on the information provided, I would choose **Option E**. Here's why"
+45,A,A
+46,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+47,B,B
+48,A,Based on the information provided and assuming a preference for a balance between cost and quality
+49,A,Based on the information provided and assuming a budget-conscious approach while prioritizing guest review
+50,E,"Based on the information provided, I would choose **Option E**. Here's why"
+51,B,B
+52,C,"Based on the information provided, I'll choose **C**. Here's why:"
+53,A,"Based on the information provided and assuming a preference for a balance between price, reviews"
+54,A,A
+55,B,B
+56,A,"Based on the information provided and assuming price is a significant factor, I would choose"
+57,A,A
+58,A,Based on the information provided and assuming a budget-conscious approach while prioritizing guest review
+59,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+60,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+61,A,"Based on the information provided and assuming you're looking for a balance between location,"
+62,B,B
+63,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+64,A,"Based on the information provided and assuming a preference for a balance between cost, location"
+65,D,D
+66,A,"Based on the information provided, I would choose Option A:
+
+- New Yorker by"
+67,A,Based on the information provided and assuming a budget-conscious approach while still aiming for a
+68,B,B
+69,D,"Based on price and location, I choose **D**. The DoubleTree by Hilton"
+70,A,A
+71,D,D
+72,B,B
+73,B,B
+74,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+75,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+76,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+77,C,"Based on the information provided, I would choose **C**. Here's why:"
+78,D,"Based on price and guest review score, I choose **D**."
+79,A,A
+80,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+81,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+82,A,"Based on the information provided and assuming you prefer a balance between price, location,"
+83,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+84,A,A
+85,A,A
+86,A,"Based on the information provided, I would choose Option A:
+
+- Broadway Plaza Hotel"
+87,C,"Based on the information provided, I would choose **C**. Here's why:"
+88,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+89,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+90,B,B
+91,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+92,E,"Based on the information provided, I would choose **Option E**. Here's why"
+93,A,Based on the information provided and assuming a budget-conscious approach while prioritizing reviews and
+94,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+95,A,"Based on the information provided and assuming a balance between cost, reviews, and amenities"
+96,D,D
+97,A,A
+98,A,A
+99,D,"Based on the information provided, I would choose **D**. Here's why:"
+100,C,"Based on the information provided, I would choose Option C, The Jane Hotel."
+101,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+102,D,"Based on the information provided, I would choose **D**. Here's why:"
+103,E,"Based on price and location, I choose **E**. The Hoxton Williamsburg"
+104,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+105,A,Based on the information provided and assuming you prefer a higher review score and free cancellation
+106,B,"Based on the information provided, I would choose Option B: NobleDEN Hotel."
+107,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+108,A,"Based on the information provided and assuming a preference for a balance between price, reviews"
+109,A,Based on the information provided and assuming a budget-conscious approach while prioritizing location and
+110,B,B
+111,A,Based on the information provided and assuming a budget-conscious approach while prioritizing good reviews
+112,A,"Based on the information provided, I would choose Option A: The Ned NoMad"
+113,A,"Based on the information provided and assuming a preference for a balance between price, reviews"
+114,D,"Based on the information provided, I would choose **D**. Here's why:"
+115,A,A
+116,B,B
+117,A,Based on the information provided and assuming a budget-conscious approach while prioritizing guest review
+118,A,A
+119,A,Based on the information provided and assuming a budget-conscious approach while prioritizing guest reviews
+120,D,"Based on the information provided, I would choose Option D: The James New York"
+121,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+122,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+123,B,B
+124,B,B
+125,A,"Based on the information provided, I would choose Option A:
+
+- Motto by"
+126,B,B
+127,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+128,B,B
+129,A,"Based on the information provided and assuming price is a factor, I would choose **"
+130,A,"Based on the information provided and assuming a preference for a balance between price, reviews"
+131,B,B
+132,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+133,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+134,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+135,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+136,A,A
+137,C,"Based on the information provided, I would choose Option C, Hotel Scherman."
+138,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+139,A,Based on the information provided and assuming a preference for a balance between cost and quality
+140,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+141,A,A
+142,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+143,A,A
+144,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+145,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+146,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+147,D,"Based on price and review score, I choose Option D: Arlo Midtown"
+148,D,"Based on the information provided, I would choose Option D:
+
+La Quinta Inn"
+149,A,Based on the information provided and assuming a budget-conscious approach while still aiming for a
+150,B,B
+151,A,A
+152,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+153,A,A
+154,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+155,E,"Based on price and guest review score, I choose Option E: The Bower"
+156,A,"Based on the information provided and assuming a preference for a balance between cost, location"
+157,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+158,A,"Based on the information provided, I would choose Option A:
+
+- It has a"
+159,A,Based on the information provided and assuming a budget-conscious approach while prioritizing guest review
+160,E,"Based on the information provided, I would choose **Option E**: Even Hotel Brooklyn"
+161,A,"Based on the information provided and assuming price is a factor, I would choose:"
+162,B,B
+163,B,B
+164,D,"Based on the information provided, I would choose **D**. Here's why:"
+165,A,"Based on the information provided and assuming a preference for a balance between price, reviews"
+166,A,"Based on the information provided and assuming a preference for a balance between price, reviews"
+167,A,A
+168,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+169,A,"Based on the information provided and assuming a preference for a central location in Manhattan,"
+170,A,"Based on the information provided and assuming a preference for Manhattan locations, I would choose"
+171,C,C
+172,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+173,E,"Based on the information provided, I would choose Option E: The Marlton Hotel"
+174,B,B
+175,C,"Based on the information provided, I would choose **C**. Here's why:"
+176,A,A
+177,D,"Based on the information provided, I would choose **D**. Here's why:"
+178,A,A
+179,A,"Based on the information provided and assuming that price is a significant factor, I would"
+180,A,A
+181,A,A
+182,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+183,A,A
+184,A,A
+185,A,A
+186,A,"Based on a balance of price, reviews, and amenities for a one-night stay"
+187,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+188,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+189,B,B
+190,A,"Based on the information provided and assuming a preference for a balance between cost, location"
+191,A,A
+192,A,"Based on the information provided, I would choose **Option A**. Here's why"
+193,B,B
+194,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+195,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+196,A,A
+197,A,Based on the information provided and assuming a budget-conscious approach while prioritizing guest reviews
+198,A,Based on the information provided and assuming that breakfast is not a priority and free cancellation
+199,C,C
+200,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+201,C,C
+202,A,A
+203,B,B
+204,A,Based on the information provided and assuming you prefer a central location in Manhattan for your
+205,A,Based on the information provided and assuming a budget-conscious approach while prioritizing location and
+206,B,B
+207,B,B
+208,A,"Based on the information provided and assuming a preference for a balance between price, reviews"
+209,A,A
+210,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+211,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+212,A,"Based on the information provided and assuming a preference for a balance between cost, location"
+213,A,A
+214,A,"Based on the information provided and assuming a preference for a higher star rating, good"
+215,A,A
+216,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+217,C,"Based on the information provided, I would choose **C**. Here's why:"
+218,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+219,B,"Based on the information provided, I would choose **Option B**. Here's why"
+220,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+221,B,B
+222,D,"Based on the information provided, I would choose Option D:
+
+Hyatt Place New"
+223,A,"Based on the information provided and assuming a preference for a balance between price, reviews"
+224,B,B
+225,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+226,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+227,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+228,A,"Based on the information provided and assuming a balance between cost, reviews, and amenities"
+229,A,A
+230,D,"Based on the information provided, I would choose Option D:
+
+Hotel: Z Hotel"
+231,C,C
+232,A,Based on the information provided and assuming a budget-conscious approach while prioritizing guest reviews
+233,B,B
+234,A,"Based on the information provided and assuming a preference for a balance between price, reviews"
+235,B,B
+236,C,C
+237,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+238,C,C
+239,C,"Based on the information provided, I would choose Option C (1 Hotel Brooklyn Bridge"
+240,E,"Based on the information provided, I would choose Option E for the following reasons:"
+241,D,"Based on price and review score, I choose Option D: The Ludlow Hotel"
+242,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+243,D,D
+244,B,B
+245,C,C
+246,A,A
+247,A,"Based on the information provided and assuming price is a factor, I would choose Option"
+248,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+249,A,A
+250,A,"Based on the information provided and assuming a preference for balance between cost, reviews,"
+251,A,Based on the information provided and assuming a budget-conscious approach while still aiming for a
+252,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+253,A,Based on the information provided and assuming a budget-conscious approach while prioritizing guest review
+254,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+255,C,"Based on the information provided, I would choose **C**. Here's why:"
+256,A,A
+257,A,A
+258,E,"Based on the information provided, I would choose **E**. Here's why:"
+259,B,B
+260,A,A
+261,A,Based on the information provided and assuming a preference for a balance between cost and quality
+262,A,A
+263,A,A
+264,D,D
+265,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+266,A,"Based on the information provided and assuming a preference for a balance between price, reviews"
+267,B,"Based on the information provided, I would choose **Option B**. Here's why"
+268,A,Based on the information provided and assuming a budget-conscious approach while still aiming for a
+269,A,"Based on the information provided and assuming price is a significant factor, I would choose"
+270,B,B
+271,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+272,A,A
+273,A,"Based on the information provided, I would choose Option A:
+
+- The Lucerne"
+274,C,"Based on the information provided, I would choose **C**. Here's why:"
+275,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+276,A,A
+277,A,Based on the information provided and assuming you prefer a Manhattan location for your one-night
+278,B,B
+279,C,"Based on the information provided, I would choose **C**. Here's why:"
+280,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+281,A,A
+282,B,"Based on the information provided, I would choose **B**. Here's why:"
+283,A,Based on the information provided and assuming a budget-conscious approach while prioritizing reviews and
+284,B,B
+285,B,B
+286,A,Based on the information provided and assuming a budget-conscious approach while prioritizing location and
+287,D,D
+288,E,"Based on price and review score, I choose **E**."
+289,B,B
+290,D,"Based on the information provided, I would choose Option D:
+
+Hyatt Centric"
+291,D,"Based on the information provided, I would choose **D**. Here's why:"
+292,A,"Based on the information provided and assuming a preference for a central location, good reviews"
+293,B,B
+294,A,A
+295,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+296,B,"Based on the information provided and assuming that breakfast is desired, I would choose **"
+297,A,"Based on the information provided and assuming price is a significant factor, I would choose"
+298,A,"Based on the information provided and assuming a preference for a balance between price, reviews"
+299,A,"Based on the information provided and assuming a preference for a balance between cost, reviews"
+300,B,B

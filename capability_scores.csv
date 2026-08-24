@@ -1,0 +1,29 @@
+model,score_aa,score_arena,score_mmlu,source_aa,source_arena,source_mmlu,retrieved
+Qwen3 0.6B,1,,52.81,"https://artificialanalysis.ai/models/qwen3-0.6b-instruct (AA Intelligence Index v4.1; non-reasoning; page marks score as estimated)",,"https://arxiv.org/html/2505.09388v1 (Qwen3 tech report; Qwen3-0.6B-Base; 5-shot)",2026-07-28
+Gemma2 9B,,,71.3,,,"https://huggingface.co/google/gemma-2-9b (pre-trained 9B checkpoint; 5-shot)",2026-07-28
+Gemma3 1B,1,,,"https://artificialanalysis.ai/models/gemma-3-1b (AA v4.1; page marks score as estimated)",,,2026-07-28
+Gemma3 4B,1,,59.6,"https://artificialanalysis.ai/models/gemma-3-4b (AA v4.1)",,"https://huggingface.co/google/gemma-3-27b-it (Gemma 3 PT 4B; 5-shot; pre-trained checkpoint)",2026-07-28
+Llama3.2 1B,1,,49.3,"https://artificialanalysis.ai/models/llama-3-2-instruct-1b (AA v4.1; page marks score as estimated)",,"https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct (instruct; 5-shot; macro_avg/acc)",2026-07-28
+Llama3.2 3B,4,,63.4,"https://artificialanalysis.ai/models/llama-3-2-instruct-3b (AA v4.1)",,"https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct (instruct; 5-shot; macro_avg/acc)",2026-07-28
+Qwen3 4B,7,,72.99,"https://artificialanalysis.ai/models/qwen3-4b-instruct (AA v4.1; non-reasoning; page marks score as estimated; scored model in paper is Qwen3-4B-Instruct-2507)",,"https://arxiv.org/html/2505.09388v1 (Qwen3 tech report; Qwen3-4B-Base; 5-shot)",2026-07-28
+Qwen3 8B,5,,76.89,"https://artificialanalysis.ai/models/qwen3-8b-instruct (AA v4.1; non-reasoning; page marks score as estimated)",,"https://arxiv.org/html/2505.09388v1 (Qwen3 tech report; Qwen3-8B-Base; 5-shot)",2026-07-28
+Gemma3 12B,6,,74.5,"https://artificialanalysis.ai/models/gemma-3-12b (AA v4.1)",,"https://huggingface.co/google/gemma-3-27b-it (Gemma 3 PT 12B; 5-shot; pre-trained checkpoint)",2026-07-28
+Gemma3 27B,7,1366,78.6,"https://artificialanalysis.ai/models/gemma-3-27b (AA v4.1)","https://arena.ai/leaderboard/text (gemma-3-27b-it; 1366 +/- 4)","https://huggingface.co/google/gemma-3-27b-it (Gemma 3 PT 27B; 5-shot; pre-trained checkpoint)",2026-07-28
+Qwen3 30B-A3B,9,1383,81.38,"https://artificialanalysis.ai/models/qwen3-30b-a3b-2507 (AA v4.1; non-reasoning)","https://arena.ai/leaderboard/text (qwen3-30b-a3b-instruct-2507; 1383 +/- 5)","https://arxiv.org/html/2505.09388v1 (Qwen3 tech report; Qwen3-30B-A3B-Base; 5-shot)",2026-07-28
+Llama3 8B,1,,68.5,"https://artificialanalysis.ai/models/llama-3-instruct-8b (AA v4.1)",,"https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct (Llama 3 8B Instruct row; 5-shot; macro_avg/acc)",2026-07-28
+Llama3.1 8B,8,,69.4,"https://artificialanalysis.ai/models/llama-3-1-instruct-8b (AA v4.1)",,"https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct (instruct; 5-shot; macro_avg/acc)",2026-07-28
+DeepSeek-R1 1.5B,4,,,"https://artificialanalysis.ai/models/deepseek-r1-distill-qwen-1-5b (AA v4.1)",,,2026-07-28
+DeepSeek-R1 7B,,,,,,,2026-07-28
+Mistral 7B,2,,60.97,"https://artificialanalysis.ai/models/mistral-7b-instruct (AA v4.1)",,"https://mistral.ai/news/announcing-mistral-7b (5-shot; base Mistral 7B; paper scored instruct v0.3)",2026-07-28
+Mistral-Nemo 12B,,,68.0,,,"https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407 (instruct; 5-shot)",2026-07-28
+Phi-2 2.7B,,,56.7,,,"https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/ (Table 2)",2026-07-28
+Phi-3 Mini,5,,70.9,"https://artificialanalysis.ai/models/phi-3-mini (AA v4.1; Phi-3 Mini Instruct 3.8B)",,"https://huggingface.co/microsoft/Phi-3-mini-4k-instruct (5-shot)",2026-07-28
+Phi-3 Medium,,,78.0,,,"https://huggingface.co/microsoft/Phi-3-medium-4k-instruct (5-shot)",2026-07-28
+Phi-4 Mini,6,,67.3,"https://artificialanalysis.ai/models/phi-4-mini (AA v4.1)",,"https://huggingface.co/microsoft/Phi-4-mini-instruct (5-shot)",2026-07-28
+Phi-4 14B,5,,84.8,"https://artificialanalysis.ai/models/phi-4 (AA v4.1)",,"https://huggingface.co/microsoft/phi-4 (shot count not stated on card)",2026-07-28
+GPT-4.1 Nano,10,,80.1,"https://artificialanalysis.ai/models/gpt-4-1-nano (AA v4.1)",,"https://www.rdworldonline.com/openai-claims-gpt-4-1-sets-new-90-standard-in-mmlu-reasoning-benchmark/ (secondary source citing OpenAI GPT-4.1 announcement; openai.com blocked fetch)",2026-07-28
+GPT-4.1 Mini,15,1383,87.5,"https://artificialanalysis.ai/models/gpt-4-1-mini (AA v4.1)","https://arena.ai/leaderboard/text (gpt-4.1-mini-2025-04-14; 1383 +/- 4)","https://help.apiyi.com/en/openai-small-models-gpt-4-1-mini-nano-guide-en.html (secondary source citing OpenAI GPT-4.1 announcement; openai.com blocked fetch)",2026-07-28
+GPT-5.4 Nano,38,1403,,"https://artificialanalysis.ai/models/gpt-5-4-nano (AA v4.1; xhigh reasoning config)","https://arena.ai/leaderboard/text (gpt-5.4-nano-high; 1403 +/- 4)",,2026-07-28
+GPT-5.4 Mini,40,1449,,"https://artificialanalysis.ai/models/gpt-5-4-mini (AA v4.1; xhigh reasoning config)","https://arena.ai/leaderboard/text (gpt-5.4-mini-high; 1449 +/- 4)",,2026-07-28
+GPT-5.4,51,1477,,"https://artificialanalysis.ai/models/gpt-5-4 (AA v4.1; xhigh reasoning config; model marked deprecated)","https://arena.ai/leaderboard/text (gpt-5.4; 1477 +/- 4)",,2026-07-28
+Claude Haiku 4.5,24,1412,,"https://artificialanalysis.ai/models/claude-4-5-haiku (AA v4.1; non-reasoning config)","https://arena.ai/leaderboard/text (claude-haiku-4-5-20251001; 1412 +/- 3)",,2026-07-28

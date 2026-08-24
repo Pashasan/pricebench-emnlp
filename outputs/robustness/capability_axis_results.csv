@@ -1,0 +1,41 @@
+axis,analysis,subset,n,pearson_r,pearson_p,spearman_rho,spearman_p,note
+score_aa,coverage,all,23,,,,,missing: Gemma2 9B; DeepSeek-R1 7B; Mistral-Nemo 12B; Phi-2 2.7B; Phi-3 Medium
+score_aa,locked_rank,Llama3.2 1B,23,1.0,,1.0,,rank 1 of 23 (1 = lowest)
+score_aa,locked_rank,Mistral 7B,23,2.0,,6.0,,rank 6 of 23 (1 = lowest)
+score_aa,locked_rank,Qwen3 0.6B,23,1.0,,1.0,,rank 1 of 23 (1 = lowest)
+score_aa,locked_rank,Llama3 8B,23,1.0,,1.0,,rank 1 of 23 (1 = lowest)
+score_aa,locked_rank,Llama3.1 8B,23,8.0,,16.0,,rank 16 of 23 (1 = lowest)
+score_aa,r2_log vs score,engaged pooled,18,0.6319834961947807,0.00489655042448706,0.7430115644640644,0.0004110529474025452,
+score_aa,|b_logp| vs score,engaged pooled,18,0.7140129843465277,0.0008736773601124142,0.7036329878258014,0.0011202838195485025,
+score_aa,r2_log vs score,engaged open-only,12,0.26103490269150353,0.4125075631142027,0.4078424488672716,0.18815190460174838,
+score_aa,|b_logp| vs score,engaged open-only,12,0.26622888421637153,0.4029254594687627,0.2269731889348294,0.47806491360423586,
+score_aa,r2_log vs score,"engaged pooled, sig price",17,0.6121406320736497,0.009005983081746879,0.7003141899274792,0.0017445615599330604,
+score_aa,|b_logp| vs score,"engaged pooled, sig price",17,0.6987988765655981,0.0018028932822253215,0.6560060865225772,0.004241506706316784,
+score_aa,r2_log vs score,"engaged open-only, sig price",11,0.07223095307977458,0.8328508345370172,0.24945523232062758,0.4594560570850388,
+score_aa,|b_logp| vs score,"engaged open-only, sig price",11,0.1205544647116832,0.724031384077917,0.023097706696354407,0.9462571590504734,
+score_aa,WTP vs score,WTP subset pooled,16,-0.3108891300057949,0.24119286346799024,-0.4298417387887747,0.09656581422928225,
+score_aa,WTP vs score,WTP subset open-only,10,0.03284553200797027,0.9282278620027491,-0.1666952519797431,0.6453188471586484,
+score_arena,coverage,all,7,,,,,missing: Qwen3 0.6B; Gemma2 9B; Gemma3 1B; Gemma3 4B; Llama3.2 1B; Llama3.2 3B; Qwen3 4B; Qwen3 8B; Gemma3 12B; Llama3 8B; Llama3.1 8B; DeepSeek-R1 1.5B; DeepSeek-R1 7B; Mistral 7B; Mistral-Nemo 12B; Phi-2 2.7B; Phi-3 Mini; Phi-3 Medium; Phi-4 Mini; Phi-4 14B; GPT-4.1 Nano
+score_arena,locked_rank,Llama3.2 1B,7,,,,,not matched
+score_arena,locked_rank,Mistral 7B,7,,,,,not matched
+score_arena,locked_rank,Qwen3 0.6B,7,,,,,not matched
+score_arena,locked_rank,Llama3 8B,7,,,,,not matched
+score_arena,locked_rank,Llama3.1 8B,7,,,,,not matched
+score_mmlu,coverage,all,21,,,,,missing: Gemma3 1B; DeepSeek-R1 1.5B; DeepSeek-R1 7B; GPT-5.4 Nano; GPT-5.4 Mini; GPT-5.4; Claude Haiku 4.5
+score_mmlu,locked_rank,Llama3.2 1B,21,49.3,,1.0,,rank 1 of 21 (1 = lowest)
+score_mmlu,locked_rank,Mistral 7B,21,60.97,,5.0,,rank 5 of 21 (1 = lowest)
+score_mmlu,locked_rank,Qwen3 0.6B,21,52.81,,2.0,,rank 2 of 21 (1 = lowest)
+score_mmlu,locked_rank,Llama3 8B,21,68.5,,9.0,,rank 9 of 21 (1 = lowest)
+score_mmlu,locked_rank,Llama3.1 8B,21,69.4,,10.0,,rank 10 of 21 (1 = lowest)
+score_mmlu,r2_log vs score,engaged pooled,16,0.45354806767301403,0.07765086612423489,0.38823529411764707,0.13728162367278124,
+score_mmlu,|b_logp| vs score,engaged pooled,16,0.524205348343167,0.03712343876145273,0.5205882352941177,0.03869090714064999,
+score_mmlu,r2_log vs score,engaged open-only,14,0.318596984009653,0.26691862502078045,0.26593406593406593,0.3581134003647861,
+score_mmlu,|b_logp| vs score,engaged open-only,14,0.37292162627927994,0.1891029846396838,0.4153846153846154,0.1396659475175257,
+score_mmlu,r2_log vs score,"engaged pooled, sig price",15,0.30176393926249034,0.2743629344310223,0.2571428571428571,0.35486036365060913,
+score_mmlu,|b_logp| vs score,"engaged pooled, sig price",15,0.4546322812864298,0.08864526212281926,0.41785714285714276,0.1211725360218785,
+score_mmlu,r2_log vs score,"engaged open-only, sig price",13,0.11544336679573224,0.7072467896922289,0.08241758241758242,0.788950927847518,
+score_mmlu,|b_logp| vs score,"engaged open-only, sig price",13,0.26257299554203983,0.38611526578343436,0.2692307692307692,0.37373304228189164,
+score_mmlu,WTP vs score,WTP subset pooled,15,-0.3511115064632924,0.19942031755174083,-0.3571428571428571,0.19127476343157904,
+score_mmlu,WTP vs score,WTP subset open-only,13,-0.2935014859759865,0.33041839218617675,-0.34065934065934067,0.2547064607541252,
+score_aa,r2_log vs score,"engaged pooled, excl GPT-5.4 family",15,0.4936733311971267,0.06145395003626296,0.5917419323427685,0.020138796327340894,sensitivity: AA scores for GPT-5.4 family are xhigh config
+score_aa,|b_logp| vs score,"engaged pooled, excl GPT-5.4 family",15,0.7030805218995355,0.0034567891950818995,0.5701586399776828,0.026473085117843752,sensitivity: AA scores for GPT-5.4 family are xhigh config

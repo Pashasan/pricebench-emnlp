@@ -1,0 +1,1801 @@
+task_id,choice,raw_output
+10001,B,Option A
+10002,B,Option A
+10005,B,Option A
+10006,B,Option A
+10009,B,Option A: Equinox Hotel New York
+10010,B,Option A is the better choice for a one-night stay in New York City
+10013,B,Option A: The Westin New York Grand Central
+10014,B,Option A: The Westin New York Grand Central
+10017,B,Option A: citizenM New York Bowery
+10018,B,Option A: citizenM New York Bowery
+10001,B,Option A
+10002,B,Option A
+10005,B,Option A
+10006,B,Option A
+10009,B,Option A: Equinox Hotel New York
+10010,B,Option A is the better choice for a one-night stay in New York City
+10013,B,Option A: The Westin New York Grand Central
+10014,B,Option A: The Westin New York Grand Central
+10017,B,Option A: citizenM New York Bowery
+10018,B,Option A: citizenM New York Bowery
+10021,B,Option A: citizenM New York Times Square
+10022,B,Option A: citizenM New York Times Square
+10025,B,Option A: Lotte New York Palace
+10026,B,Option A: Lotte New York Palace
+10029,B,"Option A: The Lexington Hotel, Autograph Collection"
+10030,B,"Option A: The Lexington Hotel, Autograph Collection"
+10033,B,Option A
+10034,B,Option A
+10037,B,Option A: Arlo NoMad
+10038,B,Option A is chosen.
+10021,B,Option A: citizenM New York Times Square
+10022,B,Option A: citizenM New York Times Square
+10025,B,Option A: Lotte New York Palace
+10026,B,Option A: Lotte New York Palace
+10029,B,"Option A: The Lexington Hotel, Autograph Collection"
+10030,B,"Option A: The Lexington Hotel, Autograph Collection"
+10033,B,Option A
+10034,B,Option A
+10037,B,Option A: Arlo NoMad
+10038,B,Option A is chosen.
+10041,B,Option A
+10042,B,Option A
+10045,B,"Option A: The Beekman, A Thompson Hotel"
+10046,B,"Option A: The Beekman, A Thompson Hotel"
+10049,B,Option A: Wyndham New Yorker Hotel
+10050,B,Option A
+10053,B,Option A is the better choice as it offers a higher star rating and a
+10054,B,Option A is chosen.
+10057,B,Option A: McCarren Hotel & Pool
+10058,B,Option A: McCarren Hotel & Pool
+10041,B,Option A
+10042,B,Option A
+10045,B,"Option A: The Beekman, A Thompson Hotel"
+10046,B,"Option A: The Beekman, A Thompson Hotel"
+10049,B,Option A: Wyndham New Yorker Hotel
+10050,B,Option A
+10053,B,Option A is the better choice for a one-night stay in New York City
+10054,B,Option A is chosen.
+10057,B,Option A: McCarren Hotel & Pool
+10058,B,Option A: McCarren Hotel & Pool
+10061,B,Option A: Moxy NYC Lower East Side
+10062,B,Option A: Moxy NYC Lower East Side
+10065,B,Option A is the better choice for a one-night stay in New York City
+10066,B,Option A: Hampton Inn Manhattan Times Square Central
+10069,B,Option A is a better choice for a one-night stay in New York City
+10070,B,Option A is a better choice for a one-night stay in New York City
+10073,B,Option A: The Plaza
+10074,B,Option A
+10077,B,Option A is the better choice for a one-night stay in New York City
+10078,B,Option A is the better choice for a one-night stay in New York City
+10061,B,Option A: Moxy NYC Lower East Side
+10062,B,Option A: Moxy NYC Lower East Side
+10065,B,Option A is the better choice for a one-night stay in New York City
+10066,B,Option A: Hampton Inn Manhattan Times Square Central
+10069,B,Option A is a better choice for a one-night stay in New York City
+10070,B,Option A is a better choice for a one-night stay in New York City
+10073,B,Option A: The Plaza
+10074,B,Option A
+10077,B,Option A is the better choice for a one-night stay in New York City
+10078,B,Option A is the better choice for a one-night stay in New York City
+10081,B,Option A is the better choice for a one-night stay in New York City
+10082,B,Option A: Mandarin Oriental New York
+10085,B,Option A: Z Hotel New York
+10086,B,Option A: Z Hotel New York
+10089,B,Option A is a better choice for a one-night stay in New York City
+10090,B,Option A: The Hotel Chelsea
+10093,B,Option A: The Hotel Chelsea
+10094,B,Option A: The Hotel Chelsea
+10097,B,Option A: The Wall Street Hotel
+10098,B,Option A is a better choice for a one-night stay in New York City
+10081,B,Option A is the better choice for a one-night stay in New York City
+10082,B,Option A: Mandarin Oriental New York
+10085,B,Option A: Z Hotel New York
+10086,B,Option A: Z Hotel New York
+10089,B,Option A is a better choice for a one-night stay in New York City
+10090,B,Option A: The Hotel Chelsea
+10093,B,Option A: The Hotel Chelsea
+10094,B,Option A: The Hotel Chelsea
+10097,B,Option A: The Wall Street Hotel
+10098,B,Option A is a better choice for a one-night stay in New York City
+10101,B,Option A: Hampton Inn Manhattan-Chelsea
+10102,B,Option A: Hampton Inn Manhattan-Chelsea
+10105,B,Option A: Hotel Le Bleu
+10106,B,Option A: Hotel Le Bleu
+10109,B,Option A
+10110,B,Option A
+10113,B,Option A: Kimpton Theta New York
+10114,B,Option A: Kimpton Theta New York
+10117,B,Option A: AC Hotel New York Times Square
+10118,B,Option A: AC Hotel New York Times Square
+10101,B,Option A: Hampton Inn Manhattan-Chelsea
+10102,B,Option A: Hampton Inn Manhattan-Chelsea
+10105,B,Option A: Hotel Le Bleu
+10106,B,Option A: Hotel Le Bleu
+10109,B,Option A
+10110,B,Option A
+10113,B,Option A: Kimpton Theta New York
+10114,B,Option A: Kimpton Theta New York
+10117,B,Option A: AC Hotel New York Times Square
+10118,B,Option A: AC Hotel New York Times Square
+10121,B,Option A: Renaissance New York Midtown Hotel
+10122,B,Option A: Renaissance New York Midtown Hotel
+10125,B,Option A: New York Marriott Marquis
+10126,B,Option A: New York Marriott Marquis
+10129,B,Option A: Conrad New York Midtown
+10130,B,Option A: Conrad New York Midtown
+10133,B,Option A
+10134,B,Option A
+10137,B,Option A is the better choice for a one-night stay in New York City
+10138,B,Option A is chosen.
+10121,B,Option A: Renaissance New York Midtown Hotel
+10122,B,Option A: Renaissance New York Midtown Hotel
+10125,B,Option A: New York Marriott Marquis
+10126,B,Option A: New York Marriott Marquis
+10129,B,Option A: Conrad New York Midtown
+10130,B,Option A: Conrad New York Midtown
+10133,B,Option A
+10134,B,Option A
+10137,B,Option A is the better choice for a one-night stay in New York City
+10138,B,Option A is chosen.
+10141,B,Option A
+10142,B,Option A
+10145,B,Option A is the better choice for a one-night stay in New York City
+10146,B,Option A
+10149,B,Option A
+10150,B,Option A: The Greenwich Hotel
+10153,B,Option A
+10154,B,Option A
+10157,B,Option A
+10158,B,Option A
+10141,B,Option A
+10142,B,Option A
+10145,B,Option A is the better choice for a one-night stay in New York City
+10146,B,Option A
+10149,B,Option A
+10150,B,Option A
+10153,B,Option A
+10154,B,Option A
+10157,B,Option A
+10158,B,Option A
+10161,B,Option A is the better choice for a one-night stay in New York City
+10162,B,"Option A is a better choice as it offers a higher star rating, more reviews"
+10165,B,Option A
+10166,B,Option A
+10169,B,Option A: Moxy NYC Lower East Side
+10170,B,Option A: Moxy NYC Lower East Side
+10173,B,Option A
+10174,B,Option A: Hilton Garden Inn New York/West 35th Street
+10177,B,Option A: LUMA Hotel Times Square
+10178,B,Option A is a better choice for a one-night stay in New York City
+10161,B,Option A is the better choice for a one-night stay in New York City
+10162,B,"Option A is a better choice as it offers a higher star rating, more reviews"
+10165,B,Option A
+10166,B,Option A
+10169,B,Option A: Moxy NYC Lower East Side
+10170,B,Option A: Moxy NYC Lower East Side
+10173,B,Option A
+10174,B,Option A: Hilton Garden Inn New York/West 35th Street
+10177,B,Option A: LUMA Hotel Times Square
+10178,B,Option A is a better choice for a one-night stay in New York City
+10181,B,Option A
+10182,B,Option A is the better choice for a one-night stay in New York City
+10185,B,Option A is a better choice for a one-night stay in New York City
+10186,B,Option A is a better choice for a one-night stay in New York City
+10189,B,Option A is a better choice for a one-night stay in New York City
+10190,B,Option A: Hyatt Place New York/Chelsea
+10193,B,Option A: The Wall Street Hotel
+10194,B,Option A is a better choice for a one-night stay in New York City
+10197,B,"Option A: The Beekman, A Thompson Hotel"
+10198,B,"Option A: The Beekman, A Thompson Hotel"
+10181,B,Option A
+10182,B,Option A is the better choice for a one-night stay in New York City
+10185,B,Option A is a better choice for a one-night stay in New York City
+10186,B,Option A is a better choice for a one-night stay in New York City
+10189,B,Option A is a better choice for a one-night stay in New York City
+10190,B,Option A: Hyatt Place New York/Chelsea
+10193,B,Option A: The Wall Street Hotel
+10194,B,Option A is a better choice for a one-night stay in New York City
+10197,B,"Option A: The Beekman, A Thompson Hotel"
+10198,B,"Option A: The Beekman, A Thompson Hotel"
+10201,B,Option A
+10202,B,Option A
+10205,B,Option A: The Renwick Hotel
+10206,B,Option A
+10209,B,Option A is a better choice for a one-night stay in New York City
+10210,B,Option A: Walker Hotel Tribeca
+10213,B,Option A is a better choice for a one-night stay in New York City
+10214,B,Option A is a better choice for a one-night stay in New York City
+10217,B,Option A: Sheraton Brooklyn New York Hotel
+10218,B,Option A: Sheraton Brooklyn New York Hotel
+10201,B,Option A
+10202,B,Option A
+10205,B,Option A: The Renwick Hotel
+10206,B,Option A
+10209,B,Option A is a better choice for a one-night stay in New York City
+10210,B,Option A: Walker Hotel Tribeca
+10213,B,Option A is a better choice for a one-night stay in New York City
+10214,B,Option A is a better choice for a one-night stay in New York City
+10217,B,Option A: Sheraton Brooklyn New York Hotel
+10218,B,Option A: Sheraton Brooklyn New York Hotel
+10221,B,Option A
+10222,B,Option A
+10225,B,Option A is the better choice for a one-night stay in New York City
+10226,B,Option A
+10229,B,Option A: Arlo NoMad
+10230,B,Option A: Arlo NoMad
+10233,B,Option A: Baccarat Hotel and Residences New York
+10234,B,Option A: Baccarat Hotel and Residences New York
+10237,B,Option A
+10238,B,Option A: Holiday Inn New York City - Wall Street
+10221,B,Option A
+10222,B,Option A
+10225,B,Option A is the better choice for a one-night stay in New York City
+10226,B,Option A
+10229,B,Option A: Arlo NoMad
+10230,B,Option A: Arlo NoMad
+10233,B,Option A: Baccarat Hotel and Residences New York
+10234,B,Option A: Baccarat Hotel and Residences New York
+10237,B,Option A
+10238,B,Option A: Holiday Inn New York City - Wall Street
+10241,B,Option A: Loews Regency Hotel New York
+10242,B,Option A: Loews Regency Hotel New York
+10245,B,Option A
+10246,B,Option A
+10249,B,Option A
+10250,B,Option A.
+10253,B,Option A: Fairfield Inn & Suites New York Brooklyn
+10254,B,Option A is a better choice for a one-night stay in New York City
+10257,B,Option A
+10258,B,Option A
+10241,B,Option A: Loews Regency Hotel New York
+10242,B,Option A: Loews Regency Hotel New York
+10245,B,Option A
+10246,B,Option A
+10249,B,Option A
+10250,B,Option A.
+10253,B,Option A: Fairfield Inn & Suites New York Brooklyn
+10254,B,Option A is a better choice for a one-night stay in New York City
+10257,B,Option A
+10258,B,Option A
+10261,B,Option A
+10262,B,Option A
+10265,B,Option A is the better choice for a one-night stay in New York City
+10266,B,Option A
+10269,B,Option A
+10270,B,Option A
+10273,B,Option A
+10274,B,Option A
+10277,B,Option A: The Plaza
+10278,B,Option A: The Plaza
+10261,B,Option A
+10262,B,Option A
+10265,B,Option A is the better choice for a one-night stay in New York City
+10266,B,Option A
+10269,B,Option A
+10270,B,Option A
+10273,B,Option A
+10274,B,Option A
+10277,B,Option A: The Plaza
+10278,B,Option A: The Plaza
+10281,B,Option A
+10282,B,Option A
+10285,B,Option A
+10286,B,Option A is the better choice for a one-night stay in New York City
+10289,B,Option A: The Boro Hotel
+10290,B,Option A: The Boro Hotel
+10293,B,Option A
+10294,B,Option A
+10297,B,Option A
+10298,B,Option A: Hard Rock Hotel New York
+10281,B,Option A
+10282,B,Option A
+10285,B,Option A
+10286,B,Option A
+10289,B,Option A: The Boro Hotel
+10290,B,Option A: The Boro Hotel
+10293,B,Option A
+10294,B,Option A
+10297,B,Option A
+10298,B,Option A: Hard Rock Hotel New York
+10301,B,Option A
+10302,B,Option A: Ace Hotel Brooklyn
+10305,B,Option A: The Wall Street Hotel
+10306,B,Option A: The Wall Street Hotel
+10309,B,Option A
+10310,B,Option A
+10313,B,Option A: Sheraton New York Times Square Hotel
+10314,B,Option A: Sheraton New York Times Square Hotel
+10317,B,Option A: NoMo SoHo
+10318,B,Option A: NoMo SoHo
+10301,B,Option A
+10302,B,Option A: Ace Hotel Brooklyn
+10305,B,Option A: The Wall Street Hotel
+10306,B,Option A: The Wall Street Hotel
+10309,B,Option A
+10310,B,Option A
+10313,B,Option A: Sheraton New York Times Square Hotel
+10314,B,Option A: Sheraton New York Times Square Hotel
+10317,B,Option A: NoMo SoHo
+10318,B,Option A: NoMo SoHo
+10321,B,Option A: Hotel Hugo
+10322,B,Option A: Hotel Hugo
+10325,B,Option A: InterContinental New York Barclay
+10326,B,Option A is the better choice for a one-night stay in New York City
+10329,B,Option A: Kimpton Muse Hotel
+10330,B,Option A: Kimpton Muse Hotel
+10333,B,Option A
+10334,B,Option A is a better choice for a one-night stay in New York City
+10337,B,Option A
+10338,B,Option A: Freehand New York
+10321,B,Option A: Hotel Hugo
+10322,B,Option A: Hotel Hugo
+10325,B,Option A: InterContinental New York Barclay
+10326,B,Option A is the better choice for a one-night stay in New York City
+10329,B,Option A: Kimpton Muse Hotel
+10330,B,Option A: Kimpton Muse Hotel
+10333,B,Option A
+10334,B,Option A is a better choice for a one-night stay in New York City
+10337,B,Option A
+10338,B,Option A: Freehand New York
+10341,B,Option A
+10342,B,Option A
+10345,B,Option A: Hyatt Centric Midtown 5th Avenue New York
+10346,B,Option A: Hyatt Centric Midtown 5th Avenue New York
+10349,B,Option A: Hotel Hugo
+10350,B,Option A: Hotel Hugo
+10353,B,"Option A: The Lexington Hotel, Autograph Collection"
+10354,B,"Option A: The Lexington Hotel, Autograph Collection"
+10357,B,Option A
+10358,B,Option A
+10341,B,Option A
+10342,B,Option A
+10345,B,Option A: Hyatt Centric Midtown 5th Avenue New York
+10346,B,Option A: Hyatt Centric Midtown 5th Avenue New York
+10349,B,Option A: Hotel Hugo
+10350,B,Option A: Hotel Hugo
+10353,B,"Option A: The Lexington Hotel, Autograph Collection"
+10354,B,"Option A: The Lexington Hotel, Autograph Collection"
+10357,B,Option A
+10358,B,Option A
+10361,B,Option A
+10362,B,Option A
+10365,B,Option A
+10366,B,Option A
+10369,B,Option A
+10370,B,Option A
+10373,B,Option A is a better choice for a hotel room in New York City for a
+10374,B,Option A: New Yorker by Lotte Hotels
+10377,B,Option A: Casablanca Hotel by Library Hotel Collection
+10378,B,Option A: Casablanca Hotel by Library Hotel Collection
+10361,B,Option A
+10362,B,Option A
+10365,B,Option A
+10366,B,Option A
+10369,B,Option A
+10370,B,Option A
+10373,B,Option A is a better choice for a hotel room in New York City for a
+10374,B,Option A: New Yorker by Lotte Hotels
+10377,B,Option A: Casablanca Hotel by Library Hotel Collection
+10378,B,Option A: Casablanca Hotel by Library Hotel Collection
+10381,B,Option A: The Hoxton Williamsburg
+10382,B,Option A: The Hoxton Williamsburg
+10385,B,Option A
+10386,B,Option A
+10389,B,Option A: InterContinental New York Barclay
+10390,B,Option A is a better choice for a one-night stay in New York City
+10393,B,Option A
+10394,B,Option A is a good choice if you are looking for a one-bedroom
+10397,B,Option A
+10398,B,Option A is a good choice if you are looking for a hotel in Flat
+10381,B,Option A: The Hoxton Williamsburg
+10382,B,Option A: The Hoxton Williamsburg
+10385,B,Option A
+10386,B,Option A
+10389,B,Option A: InterContinental New York Barclay
+10390,B,Option A is a better choice for a one-night stay in New York City
+10393,B,Option A
+10394,B,Option A is a good choice if you are looking for a one-bedroom
+10397,B,Option A
+10398,B,Option A is a good choice if you are looking for a hotel in Flat
+10401,B,Option A
+10402,B,Option A
+10405,B,Option A: The Ned NoMad
+10406,B,Option A: The Ned NoMad
+10409,B,Option A
+10410,B,Option A
+10413,B,Option A is a better choice for a one-night stay in New York City
+10414,B,Option A
+10417,B,Option A: Park Hyatt New York
+10418,B,Option A: Park Hyatt New York
+10401,B,Option A
+10402,B,Option A
+10405,B,Option A: The Ned NoMad
+10406,B,Option A: The Ned NoMad
+10409,B,Option A
+10410,B,Option A
+10413,B,Option A is a better choice for a one-night stay in New York City
+10414,B,Option A
+10417,B,Option A: Park Hyatt New York
+10418,B,Option A: Park Hyatt New York
+10421,B,Option A
+10422,B,Option A
+10425,B,Option A is a better choice for your stay in New York City.
+10426,B,Option A: NobleDEN Hotel
+10429,B,Option A
+10430,B,Option A
+10433,B,Option A is the better choice for a one-night stay in New York City
+10434,B,Option A is the better choice for a one-night stay in New York City
+10437,B,Option A: Hampton Inn Manhattan/Times Square South
+10438,B,Option A: Hampton Inn Manhattan/Times Square South
+10421,B,Option A
+10422,B,Option A
+10425,B,Option A is a better choice for your stay in New York City.
+10426,B,Option A: NobleDEN Hotel
+10429,B,Option A
+10430,B,Option A
+10433,B,Option A is the better choice for a one-night stay in New York City
+10434,B,Option A is the better choice for a one-night stay in New York City
+10437,B,Option A: Hampton Inn Manhattan/Times Square South
+10438,B,Option A: Hampton Inn Manhattan/Times Square South
+10441,B,Option A
+10442,B,Option A
+10445,B,Option A is the better choice for a one-night stay in New York City
+10446,B,Option A: Residence Inn New York Manhattan/Times Square
+10449,B,Option A: Moxy NYC Chelsea
+10450,B,Option A: Moxy NYC Chelsea
+10453,B,Option A is chosen.
+10454,B,Option A is the better choice for a one-night stay in New York City
+10457,B,Option A: The Ned NoMad
+10458,B,Option A: The Ned NoMad
+10441,B,Option A
+10442,B,Option A
+10445,B,Option A is the better choice for a one-night stay in New York City
+10446,B,Option A: Residence Inn New York Manhattan/Times Square
+10449,B,Option A: Moxy NYC Chelsea
+10450,B,Option A: Moxy NYC Chelsea
+10453,B,Option A is chosen.
+10454,B,Option A is the better choice for a one-night stay in New York City
+10457,B,Option A: The Ned NoMad
+10458,B,Option A: The Ned NoMad
+10461,B,Option A is the better choice for a one-night stay in New York City
+10462,B,Option A
+10465,B,Option A
+10466,B,Option A
+10469,B,Option A is the better choice for a luxurious and comfortable stay in New York
+10470,B,Option A
+10473,A,Option B: Hyatt House New York/Chelsea
+10474,B,Option A is a good choice if you are looking for a budget-friendly hotel
+10477,B,Option A
+10478,B,Option A: Loews Regency Hotel New York
+10461,B,Option A is the better choice for a one-night stay in New York City
+10462,B,Option A
+10465,B,Option A
+10466,B,Option A
+10469,B,Option A is the better choice for a luxurious and comfortable stay in New York
+10470,B,Option A
+10473,A,Option B: Hyatt House New York/Chelsea
+10474,B,Option A is a good choice if you are looking for a budget-friendly hotel
+10477,B,Option A
+10478,B,Option A: Loews Regency Hotel New York
+10481,B,Option A
+10482,B,Option A
+10485,B,Option A is the better choice for a one-night stay in New York City
+10486,B,Option A is the better choice for a one-night stay in New York City
+10489,B,Option A: Kimpton Hotel Eventi
+10490,B,Option A: Kimpton Hotel Eventi
+10493,B,Option A
+10494,B,Option A: Hyatt Regency Times Square
+10497,B,Option A
+10498,B,Option A is a better choice for a one-night stay in New York City
+10481,B,Option A
+10482,B,Option A
+10485,B,Option A is the better choice for a one-night stay in New York City
+10486,B,Option A is the better choice for a one-night stay in New York City
+10489,B,Option A: Kimpton Hotel Eventi
+10490,B,Option A: Kimpton Hotel Eventi
+10493,B,Option A
+10494,B,Option A: Hyatt Regency Times Square
+10497,B,Option A
+10498,B,Option A
+10501,B,Option A is a good choice if you are looking for a more budget-friendly
+10502,B,Option A is a better choice for a one-night stay in New York City
+10505,B,Option A
+10506,B,Option A
+10509,B,Option A
+10510,B,Option A: Crosby Street Hotel
+10513,B,Option A
+10514,B,Option A
+10517,B,Option A is a better choice for a one-night stay in New York City
+10518,B,Option A is the better choice for a one-night stay in New York City
+10501,B,Option A is a good choice if you are looking for a more budget-friendly
+10502,B,Option A is a better choice for a one-night stay in New York City
+10505,B,Option A
+10506,B,Option A
+10509,B,Option A
+10510,B,Option A
+10513,B,Option A
+10514,B,Option A
+10517,B,Option A is a better choice for a one-night stay in New York City
+10518,B,Option A is the better choice for a one-night stay in New York City
+10521,B,Option A: The Westin New York Grand Central
+10522,B,Option A: The Westin New York Grand Central
+10525,B,"Option A is a better choice as it offers a higher guest review score, free"
+10526,B,Option A: Casablanca Hotel by Library Hotel Collection
+10529,B,Option A is a better choice for a one-night stay in New York City
+10530,B,Option A
+10533,B,Option A is a better choice for a one-night stay in New York City
+10534,B,Option A is a better choice for a one-night stay in New York City
+10537,B,Option A
+10538,B,Option A
+10521,B,Option A: The Westin New York Grand Central
+10522,B,Option A: The Westin New York Grand Central
+10525,B,"Option A is a better choice as it offers a higher guest review score, free"
+10526,B,Option A: Casablanca Hotel by Library Hotel Collection
+10529,B,Option A is a better choice for a one-night stay in New York City
+10530,B,Option A
+10533,B,Option A is a better choice for a one-night stay in New York City
+10534,B,Option A is a better choice for a one-night stay in New York City
+10537,B,Option A
+10538,B,Option A
+10541,B,Option A
+10542,B,Option A: Renaissance New York Midtown Hotel
+10545,B,Option A
+10546,B,Option A
+10549,B,Option A: The Ned NoMad
+10550,B,Option A: The Ned NoMad
+10553,B,Option A
+10554,B,Option A
+10557,B,Option A
+10558,B,Option A
+10541,B,Option A
+10542,B,Option A: Renaissance New York Midtown Hotel
+10545,B,Option A
+10546,B,Option A
+10549,B,Option A: The Ned NoMad
+10550,B,Option A: The Ned NoMad
+10553,B,Option A
+10554,B,Option A
+10557,B,Option A
+10558,B,Option A
+10561,B,Option A
+10562,B,Option A
+10565,B,Option A is a good choice if you are looking for a comfortable and convenient hotel
+10566,B,Option A
+10569,B,Option A is a great choice if you're looking for a luxurious and
+10570,B,Option A is a great choice for a hotel room in New York City. The
+10573,B,Option A
+10574,B,Option A
+10577,B,Option A is a better choice for a one-night stay in New York City
+10578,B,Option A
+10561,B,Option A
+10562,B,Option A
+10565,B,Option A is a good choice if you are looking for a comfortable and convenient hotel
+10566,B,Option A
+10569,B,Option A is a great choice if you're looking for a luxurious and
+10570,B,Option A is a great choice for a hotel room in New York City. The
+10573,B,Option A
+10574,B,Option A
+10577,B,Option A is a better choice for a one-night stay in New York City
+10578,B,Option A
+10581,B,Option A
+10582,B,Option A
+10585,B,Option A: Virgin Hotels New York City
+10586,B,Option A
+10589,B,Option A: InterContinental New York Barclay
+10590,B,Option A: InterContinental New York Barclay
+10593,B,Option A is the better choice for a one-night stay in New York City
+10594,B,Option A
+10597,B,Option A is a better choice for a one-night stay in New York City
+10598,B,Option A is a good choice if you are looking for a budget-friendly hotel
+10581,B,Option A
+10582,B,Option A
+10585,B,Option A: Virgin Hotels New York City
+10586,B,Option A
+10589,B,Option A: InterContinental New York Barclay
+10590,B,Option A: InterContinental New York Barclay
+10593,B,Option A is the better choice for a one-night stay in New York City
+10594,B,Option A
+10597,B,Option A is a better choice for a one-night stay in New York City
+10598,B,Option A is a good choice if you are looking for a budget-friendly hotel
+10601,B,Option A: The New York EDITION
+10602,B,Option A: The New York EDITION
+10605,B,Option A is a good choice if you are looking for a budget-friendly option
+10606,B,Option A is a better choice for a one-night stay in New York City
+10609,B,Option A
+10610,B,Option A
+10613,B,Option A is a better choice for this situation.
+10614,B,Option A is a good choice if you are looking for a budget-friendly option
+10617,B,Option A: The Langham New York Fifth Avenue
+10618,B,Option A: The Langham New York Fifth Avenue
+10601,B,Option A: The New York EDITION
+10602,B,Option A: The New York EDITION
+10605,B,Option A is a good choice if you are looking for a budget-friendly option
+10606,B,Option A is a better choice for a one-night stay in New York City
+10609,B,Option A
+10610,B,Option A
+10613,B,Option A is a better choice for this situation.
+10614,B,Option A is a good choice if you are looking for a budget-friendly option
+10617,B,Option A: The Langham New York Fifth Avenue
+10618,B,Option A: The Langham New York Fifth Avenue
+10621,B,Option A: Hampton Inn Manhattan Grand Central
+10622,B,Option A: Hampton Inn Manhattan Grand Central
+10625,B,Option A is a better choice for a one-night stay in New York City
+10626,B,Option A is a good choice if you are looking for a comfortable and convenient stay
+10629,B,Option A
+10630,B,Option A
+10633,B,Option A is a better choice for a one-night stay in New York City
+10634,B,Option A is a better choice for a one-night stay in New York City
+10637,B,Option A
+10638,B,Option A
+10621,B,Option A: Hampton Inn Manhattan Grand Central
+10622,B,Option A: Hampton Inn Manhattan Grand Central
+10625,B,Option A is a better choice for a one-night stay in New York City
+10626,B,Option A is a good choice if you are looking for a comfortable and convenient stay
+10629,B,Option A
+10630,B,Option A
+10633,B,Option A is a better choice for a one-night stay in New York City
+10634,B,Option A is a better choice for a one-night stay in New York City
+10637,B,Option A
+10638,B,Option A
+10641,B,Option A
+10642,B,Option A is a great choice if you're looking for a comfortable and convenient
+10645,B,Option A is a better choice for a one-night stay in New York City
+10646,B,Option A is a better choice for a one-night stay in New York City
+10649,B,Option A is not a good choice as it has no free cancellation and no breakfast
+10650,B,Option A is a good choice if you are looking for a comfortable stay in the
+10653,B,Option A is a better choice for a one-night stay in New York City
+10654,B,Option A is a great choice for a one-night stay in New York City
+10657,B,Option A: Andaz 5th Avenue
+10658,B,Option A.
+10641,B,Option A
+10642,B,Option A
+10645,B,Option A is a better choice for a one-night stay in New York City
+10646,B,Option A is a better choice for a one-night stay in New York City
+10649,B,Option A is not a good choice as it has no free cancellation and no breakfast
+10650,B,Option A is a good choice if you are looking for a comfortable stay in the
+10653,B,Option A is a better choice for a one-night stay in New York City
+10654,B,Option A is a great choice for a one-night stay in New York City
+10657,B,Option A: Andaz 5th Avenue
+10658,B,Option A.
+10661,B,Option A: Crosby Street Hotel
+10662,B,Option A: Crosby Street Hotel
+10665,B,Option A is a better choice for a one-night stay in New York City
+10666,B,Option A
+10669,B,Option A
+10670,B,Option A
+10673,B,Option A
+10674,B,Option A
+10677,B,Option A.
+10678,B,Option A
+10661,B,Option A: Crosby Street Hotel
+10662,B,Option A: Crosby Street Hotel
+10665,B,Option A is a better choice for a one-night stay in New York City
+10666,B,Option A
+10669,B,Option A
+10670,B,Option A
+10673,B,Option A
+10674,B,Option A
+10677,B,Option A.
+10678,B,Option A
+10681,B,Option A is a better choice for a one-night stay in New York City
+10682,B,Option A is a better choice for a one-night stay in New York City
+10685,B,Option A: The St. Regis New York
+10686,B,Option A: The St. Regis New York
+10689,B,Option A: The Dominick Hotel
+10690,B,Option A is the better choice for a one-night stay in New York City
+10693,B,Option A
+10694,B,Option A.
+10697,B,Option A is a good choice if you are looking for a budget-friendly hotel
+10698,B,Option A is a good choice if you are looking for a budget-friendly hotel
+10681,B,Option A is a better choice for a one-night stay in New York City
+10682,B,Option A is a better choice for a one-night stay in New York City
+10685,B,Option A: The St. Regis New York
+10686,B,Option A: The St. Regis New York
+10689,B,Option A: The Dominick Hotel
+10690,B,Option A is the better choice for a one-night stay in New York City
+10693,B,Option A
+10694,B,Option A.
+10697,B,Option A is a good choice if you are looking for a budget-friendly hotel
+10698,B,Option A is a good choice if you are looking for a budget-friendly hotel
+10701,B,Option A: The Peninsula New York
+10702,B,Option A: The Peninsula New York
+10705,B,Option A is a good choice if you are looking for a hotel in TriBe
+10706,B,Option A
+10709,B,Option A is a good choice if you are looking for a mid-range hotel
+10710,B,Option A is a good choice if you are looking for a more budget-friendly
+10713,B,Option A is a better choice for a one-night stay in New York City
+10714,B,Option A is a good choice if you are looking for a hotel in Union Square
+10717,B,Option A is the better choice for a one-night stay in New York City
+10718,B,Option A: Kimpton Hotel Eventi
+10701,B,Option A: The Peninsula New York
+10702,B,Option A: The Peninsula New York
+10705,B,Option A is a good choice if you are looking for a hotel in TriBe
+10706,B,Option A
+10709,B,Option A is a good choice if you are looking for a mid-range hotel
+10710,B,Option A is a good choice if you are looking for a more budget-friendly
+10713,B,Option A is a better choice for a one-night stay in New York City
+10714,B,Option A is a good choice if you are looking for a hotel in Union Square
+10717,B,Option A is the better choice for a one-night stay in New York City
+10718,B,Option A: Kimpton Hotel Eventi
+10721,B,Option A: Mandarin Oriental New York
+10722,B,Option A is the better choice for a one-night stay in New York City
+10725,B,Option A
+10726,B,Option A
+10729,B,Option A is a better choice for a one-night stay in New York City
+10730,B,Option A is a better choice for a one-night stay in New York City
+10733,B,Option A is a good choice if you are looking for a comfortable and affordable place
+10734,B,Option A is the choice for a one-night stay in New York City.
+10737,B,Option A: The Hoxton Williamsburg
+10738,B,Option A is a better choice for a one-night stay in New York City
+10721,B,Option A is a better choice for a one-night stay in New York City
+10722,B,Option A is the better choice for a one-night stay in New York City
+10725,B,Option A
+10726,B,Option A
+10729,B,Option A is a better choice for a one-night stay in New York City
+10730,B,Option A is a better choice for a one-night stay in New York City
+10733,B,Option A is a good choice if you are looking for a comfortable and affordable place
+10734,B,Option A is the choice for a one-night stay in New York City.
+10737,B,Option A: The Hoxton Williamsburg
+10738,B,Option A is a better choice for a one-night stay in New York City
+10741,B,Option A
+10742,B,Option A
+10745,B,Option A
+10746,B,Option A
+10749,B,Option A is chosen.
+10750,B,Option A is a better choice for a one-night stay in New York City
+10753,B,Option A is the better choice for a one-night stay in New York City
+10754,B,Option A is the better choice for a one-night stay in New York City
+10757,B,"Option A: The Carlyle, A Rosewood Hotel"
+10758,B,"Option A: The Carlyle, A Rosewood Hotel"
+10741,B,Option A
+10742,B,Option A
+10745,B,Option A
+10746,B,Option A
+10749,B,Option A is chosen.
+10750,B,Option A is a better choice for a one-night stay in New York City
+10753,B,Option A is the better choice for a one-night stay in New York City
+10754,B,Option A is the better choice for a one-night stay in New York City
+10757,B,"Option A: The Carlyle, A Rosewood Hotel"
+10758,B,"Option A: The Carlyle, A Rosewood Hotel"
+10761,B,Option A
+10762,B,Option A is a great choice for a one-night stay in New York City
+10765,B,Option A is a good choice if you are looking for a budget-friendly hotel
+10766,B,Option A
+10769,B,Option A
+10770,B,Option A
+10773,B,Option A
+10774,B,Option A
+10777,B,Option A
+10778,B,Option A: Hilton Garden Inn New York/Times Square
+10761,B,Option A
+10762,B,Option A
+10765,B,Option A is a good choice if you are looking for a budget-friendly hotel
+10766,B,Option A
+10769,B,Option A
+10770,B,Option A
+10773,B,Option A
+10774,B,Option A
+10777,B,Option A
+10778,B,Option A: Hilton Garden Inn New York/Times Square
+10781,B,Option A
+10782,B,Option A: DoubleTree by Hilton New York Times Square West
+10785,B,Option A
+10786,B,Option A
+10789,A,Option B
+10790,A,Option B
+10793,B,Option A is a better choice for a one-night stay in New York City
+10794,A,Option B
+10797,B,"Option A is a great choice for a hotel room in New York City, especially"
+10798,B,Option A is a good choice if you prefer a more intimate and artsy neighborhood
+10781,B,Option A
+10782,B,Option A: DoubleTree by Hilton New York Times Square West
+10785,B,Option A
+10786,B,Option A
+10789,A,Option B
+10790,A,Option B
+10793,B,Option A is a better choice for a one-night stay in New York City
+10794,A,Option B
+10797,B,"Option A is a great choice for a hotel room in New York City, especially"
+10798,B,Option A is a good choice if you prefer a more intimate and artsy neighborhood
+10801,B,Option A is a better choice for a one-night stay in New York City
+10802,B,Option A
+10805,B,Option A is a better choice for this situation.
+10806,B,Option A is the better choice for a one-night stay in New York City
+10809,B,Option A is a better choice for a one-night stay in New York City
+10810,B,Option A is a good choice if you are looking for a more budget-friendly
+10813,B,Option A
+10814,B,Option A is the better choice for a one-night stay in New York City
+10817,B,"Option A: The Carlyle, A Rosewood Hotel"
+10818,B,"Option A: The Carlyle, A Rosewood Hotel"
+10801,B,Option A
+10802,B,Option A
+10805,B,Option A is a better choice for this situation.
+10806,B,Option A is the better choice for a one-night stay in New York City
+10809,B,Option A is a better choice for a one-night stay in New York City
+10810,B,Option A is a good choice if you are looking for a more budget-friendly
+10813,B,Option A
+10814,B,Option A is the better choice for a one-night stay in New York City
+10817,B,"Option A: The Carlyle, A Rosewood Hotel"
+10818,B,"Option A: The Carlyle, A Rosewood Hotel"
+10821,B,Option A is a better choice for a one-night stay in New York City
+10822,B,Option A: Walker Hotel Tribeca
+10825,B,Option A: The Williamsburg Hotel
+10826,B,Option A: The Williamsburg Hotel
+10829,B,Option A is a better choice for a one-night stay in New York City
+10830,B,Option A is a better choice for a one-night stay in New York City
+10833,B,Option A
+10834,B,Option A
+10837,B,Option A
+10838,B,Option A
+10821,B,Option A is a better choice for a one-night stay in New York City
+10822,B,Option A: Walker Hotel Tribeca
+10825,B,Option A: The Williamsburg Hotel
+10826,B,Option A: The Williamsburg Hotel
+10829,B,Option A is a better choice for a one-night stay in New York City
+10830,B,Option A is a better choice for a one-night stay in New York City
+10833,B,Option A
+10834,B,Option A
+10837,B,Option A
+10838,B,Option A
+10841,B,Option A
+10842,B,Option A
+10845,B,Option A
+10846,B,Option A
+10849,B,Option A
+10850,B,Option A is a better choice for a one-night stay in New York City
+10853,B,Option A: AC Hotel New York Times Square
+10854,B,Option A is a better choice for a one-night stay in New York City
+10857,B,Option A is a better choice for a one-night stay in New York City
+10858,B,Option A: W New York - Union Square
+10841,B,Option A
+10842,B,Option A
+10845,B,Option A
+10846,B,Option A
+10849,B,Option A
+10850,B,Option A
+10853,B,Option A: AC Hotel New York Times Square
+10854,B,Option A is a better choice for a one-night stay in New York City
+10857,B,Option A is a better choice for a one-night stay in New York City
+10858,B,Option A: W New York - Union Square
+10861,B,Option A
+10862,B,Option A: McCarren Hotel & Pool
+10865,B,Option A: The Williamsburg Hotel
+10866,B,Option A: The Williamsburg Hotel
+10869,B,Option A: Hotel Le Bleu
+10870,B,Option A: Hotel Le Bleu
+10873,B,Option A is a better choice for a one-night stay in New York City
+10874,B,Option A: Renaissance New York Midtown Hotel
+10877,B,Option A
+10878,B,Option A
+10861,B,Option A
+10862,B,Option A: McCarren Hotel & Pool
+10865,B,Option A: The Williamsburg Hotel
+10866,B,Option A: The Williamsburg Hotel
+10869,B,Option A: Hotel Le Bleu
+10870,B,Option A: Hotel Le Bleu
+10873,B,Option A is a better choice for a one-night stay in New York City
+10874,B,Option A: Renaissance New York Midtown Hotel
+10877,B,Option A
+10878,B,Option A
+10881,B,Option A
+10882,B,Option A: Hampton Inn Manhattan/Times Square South
+10885,B,Option A
+10886,B,Option A
+10889,B,Option A: Kimpton Muse Hotel
+10890,B,Option A: Kimpton Muse Hotel
+10893,B,Option A is the better choice for a one-night stay in New York City
+10894,B,Option A: Park Hyatt New York
+10897,B,Option A is a better choice for a one-night stay in New York City
+10898,B,Option A
+10881,B,Option A
+10882,B,Option A: Hampton Inn Manhattan/Times Square South
+10885,B,Option A
+10886,B,Option A
+10889,B,Option A: Kimpton Muse Hotel
+10890,B,Option A: Kimpton Muse Hotel
+10893,B,Option A is the better choice for a one-night stay in New York City
+10894,B,Option A: Park Hyatt New York
+10897,B,Option A is a better choice for a one-night stay in New York City
+10898,B,Option A
+10901,B,Option A is a better choice for a one-night stay in New York City
+10902,B,Option A: Holiday Inn Express Manhattan Times Square
+10905,B,"Option A is the Standard High Line in the Meatpacking District, which"
+10906,B,Option A is the better choice for a one-night stay in New York City
+10909,B,Option A
+10910,B,Option A: Crosby Street Hotel
+10913,B,Option A
+10914,B,Option A
+10917,B,Option A
+10918,B,Option A
+10901,B,Option A is a better choice for a one-night stay in New York City
+10902,B,Option A: Holiday Inn Express Manhattan Times Square
+10905,B,"Option A is the Standard High Line in the Meatpacking District, which"
+10906,B,Option A is the better choice for a one-night stay in New York City
+10909,B,Option A
+10910,B,Option A
+10913,B,Option A
+10914,B,Option A
+10917,B,Option A
+10918,B,Option A
+10921,B,Option A: Crosby Street Hotel
+10922,B,Option A: Crosby Street Hotel
+10925,B,Option A
+10926,B,Option A.
+10929,B,Option A is a better choice for a one-night stay in New York City
+10930,B,Option A is a good choice for a budget-friendly hotel stay in Times Square
+10933,B,Option A
+10934,B,Option A
+10937,B,Option A
+10938,B,Option A
+10921,B,Option A: Crosby Street Hotel
+10922,B,Option A: Crosby Street Hotel
+10925,B,Option A
+10926,B,Option A.
+10929,B,Option A is a good choice for those who want to stay in Times Square at
+10930,B,Option A is a good choice for a budget-friendly hotel stay in Times Square
+10933,B,Option A
+10934,B,Option A
+10937,B,Option A
+10938,B,Option A
+10941,B,Option A: The Plaza
+10942,B,Option A: The Plaza
+10945,B,Option A is a better choice for a one-night stay in New York City
+10946,B,Option A is a better choice for a one-night stay in New York City
+10949,B,Option A is a better choice for a one-night stay in New York City
+10950,B,Option A: Kimpton Hotel Eventi
+10953,B,Option A
+10954,B,Option A
+10957,B,Option A
+10958,B,Option A
+10941,B,Option A: The Plaza
+10942,B,Option A: The Plaza
+10945,B,Option A is a better choice for a one-night stay in New York City
+10946,B,Option A is a better choice for a one-night stay in New York City
+10949,B,Option A is a better choice for a one-night stay in New York City
+10950,B,Option A: Kimpton Hotel Eventi
+10953,B,Option A
+10954,B,Option A
+10957,B,Option A
+10958,B,Option A
+10961,B,Option A: The St. Regis New York
+10962,B,Option A: The St. Regis New York
+10965,B,Option A is a better choice for a luxurious and comfortable stay in New York
+10966,B,Option A: The Plaza
+10969,B,Option A
+10970,B,Option A
+10973,B,Option A
+10974,B,Option A
+10977,B,Option A is a great choice for a hotel room in New York City. It
+10978,B,Option A is chosen.
+10961,B,Option A: The St. Regis New York
+10962,B,Option A: The St. Regis New York
+10965,B,Option A is a better choice for a luxurious and comfortable stay in New York
+10966,B,Option A: The Plaza
+10969,B,Option A
+10970,B,Option A
+10973,B,Option A
+10974,B,Option A
+10977,B,Option A is a great choice for a hotel room in New York City. It
+10978,B,Option A is chosen.
+10981,B,Option A: The St. Regis New York
+10982,B,Option A: The St. Regis New York
+10985,B,Option A
+10986,B,Option A
+10989,B,Option A is the better choice for a one-night stay in New York City
+10990,B,Option A is the better choice for a one-night stay in New York City
+10993,B,Option A is a better choice for a one-night stay in New York City
+10994,B,Option A is the better choice for a one-night stay in New York City
+10997,B,Option A
+10998,B,Option A is chosen.
+10981,B,Option A: The St. Regis New York
+10982,B,Option A: The St. Regis New York
+10985,B,Option A
+10986,B,Option A
+10989,B,Option A is the better choice for a one-night stay in New York City
+10990,B,Option A is the better choice for a one-night stay in New York City
+10993,B,Option A is a better choice for a one-night stay in New York City
+10994,B,Option A is the better choice for a one-night stay in New York City
+10997,B,Option A
+10998,B,Option A is chosen.
+11001,B,Option A is a great choice for a hotel room in New York City. It
+11002,B,Option A is a better choice for this one-night stay in New York City
+11005,B,Option A is a good choice if you are looking for a budget-friendly hotel
+11006,B,Option A is a good choice for a budget-friendly hotel in the financial district
+11009,B,Option A
+11010,B,Option A
+11013,B,Option A is chosen.
+11014,B,Option A is a budget-friendly choice with a decent guest review score and amen
+11017,B,Option A
+11018,B,Option A
+11001,B,Option A is a great choice for a hotel room in New York City. It
+11002,B,Option A is a better choice for this one-night stay in New York City
+11005,B,Option A is a good choice if you are looking for a budget-friendly hotel
+11006,B,Option A is a good choice for a budget-friendly hotel in the financial district
+11009,B,Option A
+11010,B,Option A
+11013,B,Option A is chosen.
+11014,B,Option A is a budget-friendly choice with a decent guest review score and amen
+11017,B,Option A
+11018,B,Option A
+11021,B,Option A: The St. Regis New York
+11022,B,Option A is a better choice for this one-night stay in New York City
+11025,B,Option A is a good choice if you are looking for a mid-range hotel
+11026,B,Option A is a good choice if you are looking for a mid-range hotel
+11029,B,Option A
+11030,B,Option A is a good choice if you are looking for a mid-range hotel
+11033,B,Option A is a good choice if you are looking for a mid-range hotel
+11034,B,Option A is a good choice if you are looking for a more affordable hotel room
+11037,B,Option A is a better choice for a one-night stay in New York City
+11038,B,Option A is a better choice for a one-night stay in New York City
+11021,B,Option A: The St. Regis New York
+11022,B,Option A is a better choice for this one-night stay in New York City
+11025,B,Option A is a good choice if you are looking for a mid-range hotel
+11026,B,Option A is a good choice if you are looking for a mid-range hotel
+11029,B,Option A
+11030,B,Option A is a good choice if you are looking for a mid-range hotel
+11033,B,Option A is a good choice if you are looking for a mid-range hotel
+11034,B,Option A is a good choice if you are looking for a more affordable hotel room
+11037,B,Option A is a better choice for a one-night stay in New York City
+11038,B,Option A is a better choice for a one-night stay in New York City
+11041,B,Option A is a better choice for a one-night stay in New York City
+11042,B,Option A is a better choice for a one-night stay in New York City
+11045,B,Option A is a better choice for a one-night stay in New York City
+11046,B,Option A is a better choice for a one-night stay in New York City
+11049,B,Option A: Park Hyatt New York
+11050,B,Option A: Park Hyatt New York
+11053,B,Option A
+11054,B,Option A
+11057,B,Option A is a better choice for a one-night stay in New York City
+11058,B,Option A is a better choice for a one-night stay in New York City
+11041,B,Option A is a better choice for a one-night stay in New York City
+11042,B,Option A is a better choice for a one-night stay in New York City
+11045,B,Option A is a better choice for a one-night stay in New York City
+11046,B,Option A is a better choice for a one-night stay in New York City
+11049,B,Option A: Park Hyatt New York
+11050,B,Option A: Park Hyatt New York
+11053,B,Option A
+11054,B,Option A
+11057,B,Option A is a better choice for a one-night stay in New York City
+11058,B,Option A is a better choice for a one-night stay in New York City
+11061,B,Option A is a better choice for a one-night stay in New York City
+11062,B,Option A is a good choice if you are looking for a budget-friendly hotel
+11065,B,Option A
+11066,B,Option A
+11069,B,Option A is a better choice for a one-night stay in New York City
+11070,B,Option A is chosen.
+11073,B,Option A
+11074,B,Option A
+11077,B,Option A
+11078,B,Option A
+11061,B,Option A is a better choice for a one-night stay in New York City
+11062,B,Option A is a good choice if you are looking for a budget-friendly hotel
+11065,B,Option A
+11066,B,Option A
+11069,B,Option A is a better choice for a one-night stay in New York City
+11070,B,Option A is chosen.
+11073,B,Option A
+11074,B,Option A
+11077,B,Option A
+11078,B,Option A
+11081,B,Option A is chosen.
+11082,B,Option A is chosen.
+11085,B,Option A
+11086,B,Option A
+11089,B,Option A: Hyatt Centric Wall Street New York
+11090,B,Option A is a better choice for a one-night stay in New York City
+11093,B,Option A is a great choice for a one-night stay in New York City
+11094,B,Option A is a great choice for those looking for a luxurious and central location
+11097,B,Option A
+11098,B,Option A
+11081,B,Option A is chosen.
+11082,B,Option A is chosen.
+11085,B,Option A
+11086,B,Option A
+11089,B,Option A: Hyatt Centric Wall Street New York
+11090,B,Option A is a better choice for a one-night stay in New York City
+11093,B,Option A is a great choice for a one-night stay in New York City
+11094,B,Option A is a great choice for those looking for a luxurious and central location
+11097,B,Option A
+11098,B,Option A
+11101,B,Option A is chosen.
+11102,B,Option A
+11105,A,"Option B, The William Vale."
+11106,B,"Option A: The Carlyle, A Rosewood Hotel"
+11109,B,Option A is a good choice if you are looking for a mid-range hotel
+11110,B,Option A is a good choice if you are looking for a mid-range hotel
+11113,B,Option A
+11114,B,Option A
+11117,B,Option A is chosen.
+11118,B,Option A
+11101,B,Option A is chosen.
+11102,B,Option A
+11105,A,"Option B, The William Vale."
+11106,B,"Option A: The Carlyle, A Rosewood Hotel"
+11109,B,Option A is a good choice if you are looking for a mid-range hotel
+11110,B,Option A is a good choice if you are looking for a mid-range hotel
+11113,B,Option A
+11114,B,Option A
+11117,B,Option A is chosen.
+11118,B,Option A
+11121,B,Option A
+11122,B,Option A
+11125,B,Option A
+11126,B,Option A
+11129,B,Option A is chosen.
+11130,B,Option A
+11133,B,Option A is chosen.
+11134,B,Option A is chosen.
+11137,B,Option A is a good choice for a one-night stay in New York City
+11138,B,Option A is a good choice for a one-night stay in New York City
+11121,B,Option A
+11122,B,Option A
+11125,B,Option A
+11126,B,Option A
+11129,B,Option A is chosen.
+11130,B,Option A
+11133,B,Option A is chosen.
+11134,B,Option A is chosen.
+11137,B,Option A is a good choice for a one-night stay in New York City
+11138,B,Option A is a good choice for a one-night stay in New York City
+11141,B,Option A is a great choice if you are looking for a luxurious experience in
+11142,B,Option A
+11145,B,"Option A: The Carlyle, A Rosewood Hotel"
+11146,B,"Option A: The Carlyle, A Rosewood Hotel"
+11149,B,Option A
+11150,B,Option A
+11153,B,Option A
+11154,B,Option A
+11157,B,Option A
+11158,B,Option A
+11141,B,Option A is a great choice if you are looking for a luxurious experience in
+11142,B,Option A
+11145,B,"Option A: The Carlyle, A Rosewood Hotel"
+11146,B,"Option A: The Carlyle, A Rosewood Hotel"
+11149,B,Option A
+11150,B,Option A
+11153,B,Option A
+11154,B,"Option A is not a good choice as it does not offer free cancellation, breakfast"
+11157,B,Option A
+11158,B,Option A
+11161,B,Option A
+11162,B,Option A
+11165,B,Option A
+11166,B,Option A
+11169,B,Option A
+11170,B,Option A
+11173,B,Option A: The Westin New York at Times Square
+11174,B,Option A: The Westin New York at Times Square
+11177,B,Option A
+11178,B,Option A
+11161,B,Option A
+11162,B,Option A
+11165,B,Option A: Hyatt Centric Times Square New York
+11166,B,Option A
+11169,B,Option A
+11170,B,Option A
+11173,B,Option A: The Westin New York at Times Square
+11174,B,Option A: The Westin New York at Times Square
+11177,B,Option A
+11178,B,Option A
+11181,B,Option A
+11182,B,Option A
+11185,B,Option A
+11186,B,Option A
+11189,B,Option A is a better choice for a one-night stay in New York City
+11190,B,Option A
+11193,B,Option A is a better choice for this situation.
+11194,B,Option A is the better choice for a one-night stay in New York City
+11197,B,Option A is the better choice for a one-night stay in New York City
+11198,B,Option A
+11181,B,Option A
+11182,B,Option A
+11185,B,Option A
+11186,B,Option A
+11189,B,Option A is a better choice for a one-night stay in New York City
+11190,B,Option A
+11193,B,Option A is a better choice for this situation.
+11194,B,Option A is the better choice for a one-night stay in New York City
+11197,B,Option A is the better choice for a one-night stay in New York City
+11198,B,Option A
+11201,B,Option A is a good choice if you are looking for a comfortable stay in Brooklyn
+11202,B,Option A
+11205,B,Option A is a better choice for a one-night stay in New York City
+11206,B,Option A is the better choice for a one-night stay in New York City
+11209,B,Option A
+11210,B,Option A
+11213,B,Option A is a better choice for a one-night stay in New York City
+11214,B,Option A
+11217,B,Option A
+11218,B,Option A
+11201,B,Option A is a good choice if you are looking for a comfortable stay in Brooklyn
+11202,B,Option A
+11205,B,Option A is a better choice for a one-night stay in New York City
+11206,B,Option A is the better choice for a one-night stay in New York City
+11209,B,Option A
+11210,B,Option A
+11213,B,Option A is a better choice for a one-night stay in New York City
+11214,B,Option A
+11217,B,Option A
+11218,B,Option A
+11221,B,Option A: McCarren Hotel & Pool
+11222,B,Option A: McCarren Hotel & Pool
+11225,B,Option A is a better choice for a one-night stay in New York City
+11226,B,Option A is a better choice for a one-night stay in New York City
+11229,B,Option A
+11230,B,Option A
+11233,B,Option A is a better choice for a one-night stay in New York City
+11234,B,Option A is a better choice for a one-night stay in New York City
+11237,B,Option A
+11238,B,Option A
+11221,B,Option A: McCarren Hotel & Pool
+11222,B,Option A: McCarren Hotel & Pool
+11225,B,Option A is a better choice for a one-night stay in New York City
+11226,B,Option A is a better choice for a one-night stay in New York City
+11229,B,Option A
+11230,B,Option A
+11233,B,Option A is a better choice for a one-night stay in New York City
+11234,B,Option A is a better choice for a one-night stay in New York City
+11237,B,Option A
+11238,B,Option A
+11241,B,Option A
+11242,B,Option A
+11245,B,Option A
+11246,B,Option A
+11249,B,Option A is the better choice for a one-night stay in New York City
+11250,B,Option A
+11253,B,Option A is a better choice for a one-night stay in New York City
+11254,B,Option A is chosen.
+11257,B,Option A: NoMo SoHo
+11258,B,Option A: NoMo SoHo
+11241,B,Option A
+11242,B,Option A
+11245,B,Option A
+11246,B,Option A
+11249,B,Option A is the better choice for a one-night stay in New York City
+11250,B,Option A
+11253,B,Option A
+11254,B,Option A is chosen.
+11257,B,Option A: NoMo SoHo
+11258,B,Option A: NoMo SoHo
+11261,B,Option A
+11262,B,Option A
+11265,B,Option A
+11266,B,Option A
+11269,B,Option A is a better choice for a one-night stay in New York City
+11270,B,Option A
+11273,B,"Option A: The Beekman, A Thompson Hotel"
+11274,B,"Option A: The Beekman, A Thompson Hotel"
+11277,B,Option A: The Standard East Village
+11278,B,Option A: The Standard East Village
+11261,B,Option A
+11262,B,Option A
+11265,B,Option A
+11266,B,Option A
+11269,B,Option A is a better choice for a one-night stay in New York City
+11270,B,Option A
+11273,B,"Option A: The Beekman, A Thompson Hotel"
+11274,B,"Option A: The Beekman, A Thompson Hotel"
+11277,B,Option A: The Standard East Village
+11278,B,Option A: The Standard East Village
+11281,B,Option A.
+11282,B,Option A.
+11285,B,Option A is a better choice for a one-night stay in New York City
+11286,B,Option A is the better choice for a one-night stay in New York City
+11289,B,Option A: The Westin New York Grand Central
+11290,B,Option A: The Westin New York Grand Central
+11293,B,Option A
+11294,B,Option A
+11297,B,Option A
+11298,B,Option A is selected.
+11281,B,Option A.
+11282,B,Option A.
+11285,B,Option A is a better choice for a one-night stay in New York City
+11286,B,Option A is chosen.
+11289,B,Option A: The Westin New York Grand Central
+11290,B,Option A: The Westin New York Grand Central
+11293,B,Option A
+11294,B,Option A
+11297,B,Option A
+11298,B,Option A is selected.
+11301,B,Option A: Lotte New York Palace
+11302,B,Option A: Lotte New York Palace
+11305,B,Option A
+11306,B,Option A: Freehand New York
+11309,B,Option A: Renaissance New York Midtown Hotel
+11310,B,Option A
+11313,B,Option A
+11314,B,Option A is the better choice for a one-night stay in New York City
+11317,B,Option A is the better choice for a one-night stay in New York City
+11318,B,Option A: AC Hotel New York Times Square
+11301,B,Option A: Lotte New York Palace
+11302,B,Option A: Lotte New York Palace
+11305,B,Option A
+11306,B,Option A: Freehand New York
+11309,B,Option A: Renaissance New York Midtown Hotel
+11310,B,Option A
+11313,B,Option A
+11314,B,Option A is the better choice for a one-night stay in New York City
+11317,B,Option A is the better choice for a one-night stay in New York City
+11318,B,Option A: AC Hotel New York Times Square
+11321,B,Option A: Loews Regency Hotel New York
+11322,B,Option A
+11325,B,Option A
+11326,B,Option A
+11329,B,Option A is the better choice for a one-night stay in New York City
+11330,B,Option A is the better choice for a one-night stay in New York City
+11333,B,Option A: Park Hyatt New York
+11334,B,Option A: Park Hyatt New York
+11337,B,"Option A: The Beekman, A Thompson Hotel"
+11338,B,"Option A: The Beekman, A Thompson Hotel"
+11321,B,Option A: Loews Regency Hotel New York
+11322,B,Option A
+11325,B,Option A
+11326,B,Option A
+11329,B,Option A is the better choice for a one-night stay in New York City
+11330,B,Option A is the better choice for a one-night stay in New York City
+11333,B,Option A: Park Hyatt New York
+11334,B,Option A: Park Hyatt New York
+11337,B,"Option A: The Beekman, A Thompson Hotel"
+11338,B,"Option A: The Beekman, A Thompson Hotel"
+11341,B,Option A: The Marlton Hotel
+11342,B,Option A: The Marlton Hotel
+11345,B,Option A is the better choice for a one-night stay in New York City
+11346,B,Option A: Fairfield Inn & Suites New York Manhattan/Times Square
+11349,B,Option A: Sheraton New York Times Square Hotel
+11350,B,Option A is the better choice for a one-night stay in New York City
+11353,B,Option A: Hyatt Regency Times Square
+11354,B,Option A: Hyatt Regency Times Square
+11357,B,Option A: The Peninsula New York
+11358,B,Option A: The Peninsula New York
+11341,B,Option A: The Marlton Hotel
+11342,B,Option A: The Marlton Hotel
+11345,B,Option A is the better choice for a one-night stay in New York City
+11346,B,Option A: Fairfield Inn & Suites New York Manhattan/Times Square
+11349,B,Option A: Sheraton New York Times Square Hotel
+11350,B,Option A is the better choice for a one-night stay in New York City
+11353,B,Option A: Hyatt Regency Times Square
+11354,B,Option A: Hyatt Regency Times Square
+11357,B,Option A: The Peninsula New York
+11358,B,Option A: The Peninsula New York
+11361,B,Option A: The Rockaway Hotel & Spa
+11362,B,Option A: The Rockaway Hotel & Spa
+11365,B,Option A is the better choice for a one-night stay in New York City
+11366,B,Option A
+11369,B,Option A: InterContinental New York Barclay
+11370,B,Option A is a better choice for a one-night stay in New York City
+11373,B,Option A is a better choice for a one-night stay in New York City
+11374,B,Option A is the better choice for a one-night stay in New York City
+11377,B,Option A: W New York - Times Square
+11378,B,Option A: W New York - Times Square
+11361,B,Option A: The Rockaway Hotel & Spa
+11362,B,Option A: The Rockaway Hotel & Spa
+11365,B,Option A is the better choice for a one-night stay in New York City
+11366,B,Option A
+11369,B,Option A: InterContinental New York Barclay
+11370,B,Option A is a better choice for a one-night stay in New York City
+11373,B,Option A is the better choice for a one-night stay in New York City
+11374,B,Option A is the better choice for a one-night stay in New York City
+11377,B,Option A: W New York - Times Square
+11378,B,Option A: W New York - Times Square
+11381,B,Option A
+11382,B,Option A
+11385,B,Option A: New York Marriott Downtown
+11386,B,Option A: New York Marriott Downtown
+11389,B,Option A is chosen.
+11390,B,Option A
+11393,B,Option A
+11394,B,Option A
+11397,B,Option A is a better choice for a one-night stay in New York City
+11398,B,Option A is the better choice for a one-night stay in New York City
+11381,B,Option A
+11382,B,Option A
+11385,B,Option A: New York Marriott Downtown
+11386,B,Option A: New York Marriott Downtown
+11389,B,Option A is chosen.
+11390,B,Option A is the better choice for a one-night stay in New York City
+11393,B,Option A
+11394,B,Option A
+11397,B,Option A is a better choice for a one-night stay in New York City
+11398,B,Option A is the better choice for a one-night stay in New York City
+11401,B,Option A is a better choice for a one-night stay in New York City
+11402,B,Option A is a better choice for a one-night stay in New York City
+11405,B,Option A is the better choice for a one-night stay in New York City
+11406,B,Option A
+11409,B,Option A
+11410,B,Option A
+11413,B,Option A
+11414,B,Option A
+11417,B,Option A
+11418,B,Option A is a better choice for a one-night stay in New York City
+11401,B,Option A is a better choice for a one-night stay in New York City
+11402,B,Option A is a better choice for a one-night stay in New York City
+11405,B,Option A is the better choice for a one-night stay in New York City
+11406,B,Option A
+11409,B,Option A
+11410,B,Option A
+11413,B,Option A
+11414,B,Option A
+11417,B,Option A
+11418,B,Option A is a better choice for a one-night stay in New York City
+11421,B,Option A is chosen.
+11422,B,Option A
+11425,B,"Option A is a good choice for a budget-friendly stay in Chelsea, offering"
+11426,B,"Option A is a good choice for a budget-friendly stay in Chelsea, and"
+11429,B,Option A is a good choice for a one-night stay in New York City
+11430,B,Option A is a good choice if you are looking for a mid-range hotel
+11433,B,Option A
+11434,B,Option A
+11437,B,Option A
+11438,B,Option A
+11421,B,Option A is chosen.
+11422,B,Option A
+11425,B,"Option A is a good choice for a budget-friendly stay in Chelsea, offering"
+11426,B,"Option A is a good choice for a budget-friendly stay in Chelsea, and"
+11429,B,Option A is a good choice for a one-night stay in New York City
+11430,B,Option A is a good choice if you are looking for a mid-range hotel
+11433,B,Option A
+11434,B,Option A
+11437,B,Option A
+11438,B,Option A
+11441,B,Option A is a good choice if you are looking for a budget-friendly hotel
+11442,B,Option A is a better choice for a one-night stay in New York City
+11445,B,Option A is a budget-friendly option that offers free cancellation and free WiFi
+11446,A,Option B
+11449,B,Option A
+11450,B,Option A: Walker Hotel Greenwich Village
+11453,B,Option A
+11454,B,Option A
+11457,B,Option A
+11458,B,Option A
+11441,B,Option A is a good choice if you are looking for a budget-friendly hotel
+11442,B,Option A is a better choice for a one-night stay in New York City
+11445,B,Option A is a budget-friendly option that offers free cancellation and free WiFi
+11446,B,Option A is a budget-friendly hostel located in the Upper West Side neighborhood
+11449,B,Option A
+11450,B,Option A: Walker Hotel Greenwich Village
+11453,B,Option A
+11454,B,Option A
+11457,B,Option A
+11458,B,Option A
+11461,B,Option A: The Standard High Line
+11462,B,Option A: The Standard High Line
+11465,B,Option A: Park Hyatt New York
+11466,B,Option A: Park Hyatt New York
+11469,B,Option A is a better choice for a one-night stay in New York City
+11470,B,Option A
+11473,B,Option A
+11474,B,Option A: Walker Hotel Tribeca
+11477,B,Option A is the better choice for a one-night stay in New York City
+11478,B,Option A: Moxy NYC Chelsea
+11461,B,Option A: The Standard High Line
+11462,B,Option A: The Standard High Line
+11465,B,Option A: Park Hyatt New York
+11466,B,Option A: Park Hyatt New York
+11469,B,Option A is a better choice for a one-night stay in New York City
+11470,B,Option A
+11473,B,Option A
+11474,B,Option A: Walker Hotel Tribeca
+11477,B,Option A is the better choice for a one-night stay in New York City
+11478,B,Option A: Moxy NYC Chelsea
+11481,B,Option A is a better choice for a one-night stay in New York City
+11482,B,Option A
+11485,B,Option A is a better choice for a one-night stay in New York City
+11486,B,Option A: Sheraton Tribeca New York Hotel
+11489,B,Option A
+11490,B,Option A
+11493,B,Option A
+11494,B,Option A
+11497,B,Option A: The Standard East Village
+11498,B,Option A is a better choice for a one-night stay in New York City
+11481,B,Option A is a better choice for a one-night stay in New York City
+11482,B,Option A
+11485,B,Option A is a better choice for a one-night stay in New York City
+11486,B,Option A: Sheraton Tribeca New York Hotel
+11489,B,Option A
+11490,B,Option A
+11493,B,Option A
+11494,B,Option A
+11497,B,Option A: The Standard East Village
+11498,B,Option A is a better choice for a one-night stay in New York City
+11501,B,Option A
+11502,B,Option A
+11505,B,Option A is a better choice for a one-night stay in New York City
+11506,B,Option A
+11509,B,Option A: Walker Hotel Tribeca
+11510,B,Option A: Walker Hotel Tribeca
+11513,B,"Option A: The Beekman, A Thompson Hotel"
+11514,B,"Option A: The Beekman, A Thompson Hotel"
+11517,B,Option A: The Ludlow Hotel
+11518,B,Option A: The Ludlow Hotel
+11501,B,Option A
+11502,B,Option A
+11505,B,Option A is a better choice for a one-night stay in New York City
+11506,B,Option A
+11509,B,Option A: Walker Hotel Tribeca
+11510,B,Option A: Walker Hotel Tribeca
+11513,B,"Option A: The Beekman, A Thompson Hotel"
+11514,B,"Option A: The Beekman, A Thompson Hotel"
+11517,B,Option A: The Ludlow Hotel
+11518,B,Option A: The Ludlow Hotel
+11521,B,Option A: The Standard High Line
+11522,B,Option A: The Standard High Line
+11525,B,Option A
+11526,B,Option A is a better choice for a one-night stay in New York City
+11529,B,Option A: Hyatt Centric Midtown 5th Avenue New York
+11530,B,Option A
+11533,A,Option B: AC Hotel New York Times Square
+11534,B,Option A is a good choice if you are looking for a budget-friendly stay
+11537,B,Option A is a better choice for a one-night stay in New York City
+11538,B,Option A is a good choice if you prefer a more quiet and relaxing experience in
+11521,B,Option A: The Standard High Line
+11522,B,Option A: The Standard High Line
+11525,B,Option A
+11526,B,Option A is a better choice for a one-night stay in New York City
+11529,B,Option A: Hyatt Centric Midtown 5th Avenue New York
+11530,B,Option A
+11533,B,Option A is a great choice for a budget-friendly stay in Brooklyn.
+11534,B,Option A is a good choice if you are looking for a budget-friendly stay
+11537,B,Option A is a better choice for a one-night stay in New York City
+11538,B,Option A: Henry Norman Hotel
+11541,B,Option A is chosen.
+11542,B,Option A
+11545,B,Option A
+11546,B,Option A is the better choice for a one-night stay in New York City
+11549,B,Option A is a budget-friendly hostel located in the Upper West Side of
+11550,B,Option A is chosen.
+11553,B,Option A
+11554,B,Option A is the better choice for a one-night stay in New York City
+11557,B,Option A
+11558,B,Option A
+11541,B,Option A is chosen.
+11542,B,Option A
+11545,B,Option A
+11546,B,Option A is the better choice for a one-night stay in New York City
+11549,B,Option A is a budget-friendly hostel located in the Upper West Side of
+11550,B,Option A is a budget-friendly hostel located in the Upper West Side of
+11553,B,Option A
+11554,B,Option A is the better choice for a one-night stay in New York City
+11557,B,Option A
+11558,B,Option A
+11561,B,Option A
+11562,B,Option A: The Westin New York at Times Square
+11565,B,Option A
+11566,B,Option A: The Bowery Hotel
+11569,B,Option A is a better choice for a one-night stay in New York City
+11570,B,Option A is a good choice if you are looking for a budget-friendly option
+11573,B,Option A
+11574,B,Option A
+11577,B,Option A
+11578,B,Option A
+11561,B,Option A
+11562,B,Option A: The Westin New York at Times Square
+11565,B,Option A
+11566,B,Option A: The Bowery Hotel
+11569,B,Option A is a better choice for a one-night stay in New York City
+11570,B,Option A is a good choice if you are looking for a budget-friendly option
+11573,B,Option A
+11574,B,Option A
+11577,B,Option A
+11578,B,Option A
+11581,B,Option A
+11582,B,Option A
+11585,B,Option A: Park Hyatt New York
+11586,B,Option A: Park Hyatt New York
+11589,B,Option A: The Marlton Hotel
+11590,B,Option A is a better choice for a one-night stay in New York City
+11593,B,Option A: The Renwick Hotel
+11594,B,Option A: The Renwick Hotel
+11597,B,Option A
+11598,B,Option A
+11581,B,Option A
+11582,B,Option A
+11585,B,Option A: Park Hyatt New York
+11586,B,Option A: Park Hyatt New York
+11589,B,Option A: The Marlton Hotel
+11590,B,Option A is a better choice for a one-night stay in New York City
+11593,B,Option A: The Renwick Hotel
+11594,B,Option A: The Renwick Hotel
+11597,B,Option A
+11598,B,Option A
+11601,B,Option A is the better choice for a one-night stay in New York City
+11602,B,Option A is a better choice for a one-night stay in New York City
+11605,B,Option A: Conrad New York Midtown
+11606,B,Option A is the better choice for a one-night stay in New York City
+11609,B,Option A: The Ludlow Hotel
+11610,B,Option A is the better choice for a one-night stay in New York City
+11613,B,Option A
+11614,B,Option A
+11617,B,Option A is a better choice for a one-night stay in New York City
+11618,B,Option A is a good choice if you are looking for a budget-friendly hotel
+11601,B,Option A is the better choice for a one-night stay in New York City
+11602,B,Option A is a better choice for a one-night stay in New York City
+11605,B,Option A: Conrad New York Midtown
+11606,B,Option A is the better choice for a one-night stay in New York City
+11609,B,Option A: The Ludlow Hotel
+11610,B,Option A is the better choice for a one-night stay in New York City
+11613,B,Option A
+11614,B,Option A
+11617,B,Option A is a better choice for a one-night stay in New York City
+11618,B,Option A is a good choice if you are looking for a budget-friendly hotel
+11621,B,Option A
+11622,B,Option A
+11625,B,Option A is a better choice for a one-night stay in New York City
+11626,B,Option A
+11629,B,Option A
+11630,B,Option A
+11633,B,Option A
+11634,B,Option A
+11637,B,Option A
+11638,B,Option A is the better choice for a one-night stay in New York City
+11621,B,Option A
+11622,B,Option A
+11625,B,Option A is a better choice for a one-night stay in New York City
+11626,B,Option A
+11629,B,Option A
+11630,B,Option A
+11633,B,Option A
+11634,B,Option A
+11637,B,Option A
+11638,B,Option A is the better choice for a one-night stay in New York City
+11641,B,Option A
+11642,B,Option A: The Peninsula New York
+11645,B,Option A is a better choice for a one-night stay in New York City
+11646,B,"Option A is a great choice for a budget-friendly stay in Williamsburg,"
+11649,B,"Option A: The Ritz-Carlton New York, NoMad"
+11650,B,"Option A: The Ritz-Carlton New York, NoMad"
+11653,B,Option A: The Mercer
+11654,B,Option A: The Mercer
+11657,B,Option A is a good choice for a one-night stay in New York City
+11658,B,Option A is a great choice for a one-night stay in New York City
+11641,B,Option A
+11642,B,Option A: The Peninsula New York
+11645,B,Option A is a better choice for a one-night stay in New York City
+11646,B,"Option A is a great choice for a budget-friendly stay in Williamsburg,"
+11649,B,"Option A: The Ritz-Carlton New York, NoMad"
+11650,B,"Option A: The Ritz-Carlton New York, NoMad"
+11653,B,Option A: The Mercer
+11654,B,Option A: The Mercer
+11657,B,Option A is a good choice for a one-night stay in New York City
+11658,B,Option A is a great choice for a one-night stay in New York City
+11661,B,Option A
+11662,B,Option A
+11665,B,Option A
+11666,B,Option A: Freehand New York
+11669,B,Option A
+11670,B,Option A
+11673,B,Option A
+11674,B,Option A
+11677,B,Option A is the better choice for a one-night stay in New York City
+11678,B,Option A: The Hoxton Williamsburg
+11661,B,Option A
+11662,B,Option A
+11665,B,Option A
+11666,B,Option A: Freehand New York
+11669,B,Option A
+11670,B,Option A
+11673,B,Option A
+11674,B,Option A
+11677,B,Option A is the better choice for a one-night stay in New York City
+11678,B,Option A: The Hoxton Williamsburg
+11681,B,Option A: Pod Brooklyn
+11682,B,Option A
+11685,B,"Option A: The Pierre, A Taj Hotel"
+11686,B,"Option A: The Pierre, A Taj Hotel"
+11689,B,Option A: McCarren Hotel & Pool
+11690,B,Option A: McCarren Hotel & Pool
+11693,B,Option A: The James New York NoMad
+11694,B,Option A: The James New York NoMad
+11697,B,Option A is a better choice for a one-night stay in New York City
+11698,A,Option B: The Local NYC
+11681,B,Option A: Pod Brooklyn
+11682,B,Option A
+11685,B,"Option A: The Pierre, A Taj Hotel"
+11686,B,"Option A: The Pierre, A Taj Hotel"
+11689,B,Option A: McCarren Hotel & Pool
+11690,B,Option A: McCarren Hotel & Pool
+11693,B,Option A: The James New York NoMad
+11694,B,Option A: The James New York NoMad
+11697,B,Option A is a better choice for a one-night stay in New York City
+11698,A,Option B: The Local NYC
+11701,B,Option A: New York Marriott Marquis
+11702,B,Option A: New York Marriott Marquis
+11705,B,Option A is a better choice for a one-night stay in New York City
+11706,B,Option A is the better choice for a one-night stay in New York City
+11709,B,Option A: Z Hotel New York
+11710,A,Option B
+11713,B,Option A: New York Marriott Marquis
+11714,B,Option A: New York Marriott Marquis
+11717,B,"Option A: The Ritz-Carlton New York, NoMad"
+11718,B,"Option A: The Ritz-Carlton New York, NoMad"
+11701,B,Option A: New York Marriott Marquis
+11702,B,Option A: New York Marriott Marquis
+11705,B,Option A is a better choice for a one-night stay in New York City
+11706,B,Option A is the better choice for a one-night stay in New York City
+11709,B,Option A: Z Hotel New York
+11710,B,Option A: Z Hotel New York
+11713,B,Option A: New York Marriott Marquis
+11714,B,Option A: New York Marriott Marquis
+11717,B,"Option A: The Ritz-Carlton New York, NoMad"
+11718,B,"Option A: The Ritz-Carlton New York, NoMad"
+11721,B,Option A is the better choice for a one-night stay in New York City
+11722,B,Option A is chosen.
+11725,B,Option A
+11726,B,Option A is a better choice for a one-night stay in New York City
+11729,B,Option A is a good choice if you are looking for a budget-friendly option
+11730,B,Option A is a better choice for a one-night stay in New York City
+11733,B,Option A is the better choice for a one-night stay in New York City
+11734,B,Option A: The Standard High Line
+11737,B,Option A
+11738,B,Option A
+11721,B,Option A is the better choice for a one-night stay in New York City
+11722,B,Option A is chosen.
+11725,B,Option A
+11726,B,Option A is a better choice for a one-night stay in New York City
+11729,B,Option A is a good choice if you are looking for a budget-friendly option
+11730,B,Option A is a better choice for a one-night stay in New York City
+11733,B,Option A is the better choice for a one-night stay in New York City
+11734,B,Option A: The Standard High Line
+11737,B,Option A
+11738,B,Option A
+11741,B,Option A: The St. Regis New York
+11742,B,Option A: The St. Regis New York
+11745,B,Option A is a good choice if you are looking for a budget-friendly hotel
+11746,B,Option A is a better choice for a one-night stay in New York City
+11749,B,Option A is a good choice for a budget-friendly hotel stay in Williamsburg
+11750,B,Option A is a good choice for a budget-friendly hotel experience in a trend
+11753,B,Option A is a great choice for a one-night stay in New York City
+11754,B,Option A is a better choice for a one-night stay in New York City
+11757,B,Option A is a good choice if you are looking for a mid-range hotel
+11758,B,Option A is a better choice for a one-night stay in New York City
+11741,B,Option A: The St. Regis New York
+11742,B,Option A: The St. Regis New York
+11745,B,Option A is a good choice if you are looking for a budget-friendly hotel
+11746,B,Option A is a better choice for a one-night stay in New York City
+11749,B,Option A is a good choice for a budget-friendly hotel stay in Williamsburg
+11750,B,Option A is a good choice for a budget-friendly hotel experience in a trend
+11753,B,Option A is a great choice for a one-night stay in New York City
+11754,B,Option A is a better choice for a one-night stay in New York City
+11757,B,Option A is a good choice if you are looking for a mid-range hotel
+11758,B,Option A is a better choice for a one-night stay in New York City
+11761,B,Option A is chosen.
+11762,B,Option A
+11765,B,Option A
+11766,B,Option A
+11769,B,Option A is a good choice if you are looking for a comfortable and affordable place
+11770,B,Option A
+11773,B,Option A is a better choice for a one-night stay in New York City
+11774,B,Option A is a better choice for a one-night stay in New York City
+11777,B,Option A
+11778,B,Option A
+11761,B,Option A
+11762,B,Option A
+11765,B,Option A
+11766,B,Option A
+11769,B,Option A is a good choice if you are looking for a comfortable and affordable place
+11770,B,Option A
+11773,B,Option A is a better choice for a one-night stay in New York City
+11774,B,Option A is a better choice for a one-night stay in New York City
+11777,B,Option A
+11778,B,Option A
+11781,B,Option A is a better choice for a one-night stay in New York City
+11782,B,Option A is a better choice for a one-night stay in New York City
+11785,B,Option A
+11786,B,Option A is a better choice for a one-night stay in New York City
+11789,B,Option A
+11790,B,Option A
+11793,B,Option A is a better choice for a one-night stay in New York City
+11794,B,Option A is a better choice for this one-night stay in New York City
+11797,B,Option A is a better choice for a one-night stay in New York City
+11798,B,Option A is a better choice for a one-night stay in New York City
+11781,B,Option A is a better choice for a one-night stay in New York City
+11782,B,Option A is a better choice for a one-night stay in New York City
+11785,B,Option A
+11786,B,Option A is a better choice for a one-night stay in New York City
+11789,B,Option A
+11790,B,Option A
+11793,B,Option A is a better choice for a one-night stay in New York City
+11794,B,Option A is a better choice for this one-night stay in New York City
+11797,B,Option A is a better choice for a one-night stay in New York City
+11798,B,Option A is a better choice for a one-night stay in New York City

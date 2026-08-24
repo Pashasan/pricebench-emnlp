@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Secrets / local config
+.env
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Note: the data files (conjoint_results_*.csv, conjoint_tasks.csv,
+# hotel_pool.json, web/data/*, web/figures/*) are intentionally tracked.
